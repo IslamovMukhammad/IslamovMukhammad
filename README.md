@@ -2,7 +2,7 @@
   <img src="https://github.com/IslamovMukhammad/mukhammad/blob/main/vid-2.gif" alt="Hi, I'm Mukhammad 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
-<h2 align="center">Hello! Welcome to Mukhammad's Github page <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" width="30px"/></h2>
+<h2 align="center">Hello! Welcome to Mukhammad's Github page </h2>
 
 <p align="center">
 <table align="center">
