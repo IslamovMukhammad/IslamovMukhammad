@@ -49,7 +49,7 @@
    </tr>
 </table>
 </p>
-<p align="center"><img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=316clmjb4qfj3wxdrmwizfeadmh4
+<p align="center"><img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=25760883b34943948991af934ab2944e
 &cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 <p align="center">
