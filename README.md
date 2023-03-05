@@ -49,9 +49,10 @@
    </tr>
 </table>
 </p>
-<p align="center"><img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app
-&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
-</p>
+ 
+   [![Spotify](https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/muhammad)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
