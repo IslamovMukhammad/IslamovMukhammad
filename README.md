@@ -16,35 +16,39 @@
          <br/>
          - 📫 How to reach me: <a href="https://t.me/iCe1m">Mukhammad</a> on Telegram -
          <br/>
-            <p align="center">                     
+                     </p>
+         <br/>
+         <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamovMukhammad&theme=radical&hide_border=true&count-private=true" />
          </p> 
         <p align="center"><a href="https://stars.medv.io/Naereen/badges"><img src="https://stars.medv.io/Naereen/badges.svg" alt="Sparkline"></a></p>
          <p align="center">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=IslamovMukhammad&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
-        <h3 align="left">Languages and Tools:</h3>
-<!-- 
+      </td>
       <td >
       <h2 align="center">📊 Github Statistics 📊 </h2>   
          <br/>
          <p align="left"> 
            <img align="center" src="https://badgen.net/github/license/Naereen/Strapdown.js" alt="licence" /> 
 <!--     visitors         -->
-           <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=islamovmukhammad.visitor-badge" alt="Mukhammad's visitors" />
+           <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=IslamovMukhammad.visitor-badge" alt="Mukhammad's visitors" />
 <!--     visitors         -->
             </p>
-         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=islamovmukhammad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br><br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=islamovmukhammad&theme=radical&show_icons=true&hide_border=true" />
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=IslamovMukhammad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br><br/>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=IslamovMukhammad&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/>
-           <h1>Now Playing</h1>
+<!--                   <p align="center">
+                    <a href="https://guilyx.vercel.app/api/now-playing?open">
+                      <img src="https://guilyx.vercel.app/api/now-playing">
+                    </a>
+                  </p> -->
+         <h1>Now Playing</h1>
          <a href="https://open.spotify.com/user/muhammad"><img align="center" src="https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify" alt="music" /> 
-  
-<!-- [![Spotify](https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/muhammad)  -->
+      </td>
    </tr>
 </table>
 </p>
- 
 
 
 <p align="center">
