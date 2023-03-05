@@ -45,13 +45,11 @@
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=islamovmukhammad&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/>
   
-<!--   <img align="right" alt="GIF" src="https://github.com/IslamovMukhammad/mukhammad/blob/main/code.gif?raw=true" width="400" height="256" /> -->
-   [![Spotify](https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/muhammad)
+[![Spotify](https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/muhammad) 
    </tr>
 </table>
 </p>
  
-   [![Spotify](https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/muhammad)
 
 
 <p align="center">
