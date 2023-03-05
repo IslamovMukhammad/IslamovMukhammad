@@ -44,8 +44,10 @@
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=islamovmukhammad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br><br/>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=islamovmukhammad&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/>
+           <h1>Now Playing</h1>
+         <a href="https://open.spotify.com/user/muhammad"><img align="center" src="https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify" alt="music" /> 
   
-[![Spotify](https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/muhammad) 
+<!-- [![Spotify](https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/muhammad)  -->
    </tr>
 </table>
 </p>
