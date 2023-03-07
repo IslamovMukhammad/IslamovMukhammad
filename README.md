@@ -7,7 +7,10 @@
   <img src="https://profile-counter.glitch.me/IslamovMukhammad/count.svg" />
 </p>
 
-<h2 align="center">Hello! Welcome to Mukhammad's Github page </h2>
+<!-- <h2 align="center">Hello! Welcome to Mukhammad's Github page </h2> -->
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56F7AD&width=435&lines=Hello!+Welcome+to+Mukhammad's+Github+page" />
+</p>
 
 <p align="center">
 <table align="center">
