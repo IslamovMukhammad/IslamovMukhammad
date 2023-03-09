@@ -1,9 +1,6 @@
 name: Chess Stats Action
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '0 0 * * *' # Runs at 00:00 UTC every day
   workflow_dispatch:
@@ -14,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: ./
+      - uses: Balastrong/chess-stats-action@master
         with:
-          CHESS_USERNAME: 'hikaru'
-          FILE_NAME: 'README.md'
+          CHESS_USERNAME: 'IslamovMuhammad'
