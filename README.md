@@ -56,8 +56,6 @@
                       <img src="https://guilyx.vercel.app/api/now-playing">
                     </a>
                   </p> -->
-         <h1>Now Playing</h1>
-         <a href="https://open.spotify.com/user/muhammad"><img align="center" src="https://novatorem-opjqi510m-muhammadmnnm1-gmailcom.vercel.app/api/spotify" alt="music" /> 
       </td>
    </tr>
 </table>
