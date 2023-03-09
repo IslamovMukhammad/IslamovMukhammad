@@ -17,4 +17,4 @@ jobs:
       - uses: ./
         with:
           CHESS_USERNAME: 'IslamovMuhammad'
-          FILE_NAME: 'README-DEMO.md'
+          FILE_NAME: 'README.md'
