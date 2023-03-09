@@ -65,6 +65,14 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadIslamov?theme=nord)
 
+<h1>
+  i really like music :headphones:
+</h1>
+
+<a href="https://www.data-card-for-spotify.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
+</a>
+
 ## My contribution graph ))
 
 <picture>
