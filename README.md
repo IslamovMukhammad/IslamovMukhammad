@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/IslamovMukhammad/mukhammad/blob/main/vid-2.gif" alt="Hi, I'm Mukhammad 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/main/GIFapple.gif" >
 </p>
 <p align="center"> 
   Visitor count<br>
