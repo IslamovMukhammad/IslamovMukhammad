@@ -1,16 +1,15 @@
-name: Chess Stats Action
+name: Chess Stats Readme
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
   workflow_dispatch:
-
+  schedule:
+    # Runs at 12am IST
+    - cron: "20 18 * * *"
 jobs:
   update-readme:
-    name: Update readme with your chess stats and games
+    name: Update readme with chess stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Balastrong/chess-stats-action@master
+      - uses: IslamovMukhammad/chess-stats-readme@master
         with:
           CHESS_USERNAME: IslamovMuhammad
