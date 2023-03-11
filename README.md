@@ -101,6 +101,7 @@
 | edulanchava | **IslamovMuhammad** | abandoned  | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3n1/2n5/2r5/R2p4/8/2RK4/P3N3/2N5 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
+- 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
 
 ## My contribution graph ))
 
