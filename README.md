@@ -79,6 +79,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--START_SECTION:Chess-->
+**♟️ My Chess.com Stats** 
+
+
+<!--END_SECTION:Chess-->
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
