@@ -71,13 +71,10 @@
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
 </a>
 
-## My contribution graph ))
+<h1>
+  **♟️ My Chess.com Stats** 
+</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
@@ -101,6 +98,14 @@
 | edulanchava | **IslamovMuhammad** | abandoned  | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3n1/2n5/2r5/R2p4/8/2RK4/P3N3/2N5 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
+
+## My contribution graph ))
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
