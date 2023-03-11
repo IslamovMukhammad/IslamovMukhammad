@@ -80,9 +80,6 @@
 </picture>
 
 <!--START_SECTION:Chess-->
-**♟️ My Chess.com Stats** 
-
-
 <!--END_SECTION:Chess-->
 
 
