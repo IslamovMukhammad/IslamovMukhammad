@@ -111,6 +111,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
