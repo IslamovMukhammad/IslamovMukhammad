@@ -60,6 +60,9 @@
    </tr>
 </table>
 </p>
+<h1>
+   Recently joined leetcode
+</h1>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadIslamov?theme=nord)
 
