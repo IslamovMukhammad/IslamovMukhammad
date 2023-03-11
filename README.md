@@ -112,6 +112,12 @@
 </picture>
 
 <!--START_SECTION:waka-->
+
+```text
+Python     46 mins         ██████████████████▓░░░░░░   74.20 %
+Markdown   16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
