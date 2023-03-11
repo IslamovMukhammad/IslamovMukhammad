@@ -1,4 +1,4 @@
-nname: Waka Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: waka_62b71e98-1359-41f6-b25a-d27b36e40610
+          GH_TOKEN: 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
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
