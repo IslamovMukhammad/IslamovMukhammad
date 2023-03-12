@@ -84,11 +84,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 221 | 357 | 261 |
+| Current | 221 | 357 | 216 |
 | Best | No Rating | 431 | 261 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | rey1709 | checkmated ❌ | 11/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/pppp1pp1/8/7p/2N1n3/8/PPPP1qPP/RNBQKB1R w KQkq -">Link</a> | Bullet |
 | mouhssinYT | **IslamovMuhammad** | win 🥇 | 11/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1p2nppp/2p5/p7/4P3/5P2/7P/2b3K1 w - -">Link</a> | Bullet |
 | ibrahimmmohamedd | **IslamovMuhammad** | win 🥇 | 11/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/p3pp1p/1pp3p1/8/8/4Bp1P/PPP2n1P/R5RK w kq -">Link</a> | Bullet |
 | **IslamovMuhammad** | Santiago_sk | checkmated ❌ | 11/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p1p5/6pb/4p2P/p2PP3/2P5/PP1q4/R2K4 w q -">Link</a> | Bullet |
@@ -98,7 +99,6 @@
 | **IslamovMuhammad** | MatLmao | win 🥇 | 10/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kr3/2Q4R/8/1p4p1/pb1nr3/1P6/1P4PP/3RN1K1 b - -">Link</a> | Blitz |
 | **IslamovMuhammad** | jarednumber2 | timeout ❌ | 10/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p7/2n3K1/7R/3q4/8/7P/7r w - -">Link</a> | Blitz |
 | impietrito | **IslamovMuhammad** | timeout ❌ | 9/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/6pp/5p2/P7/8/8/1p3PPP/3R2K1 b - -">Link</a> | Blitz |
-| rafael211204 | **IslamovMuhammad** | checkmated ❌ | 9/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/2p1pp1Q/1p4p1/p2p2N1/6n1/2N3P1/PP2PP1P/n2K1B1R b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
