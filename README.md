@@ -112,6 +112,15 @@
 </picture>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 05 March 2023 - To: 11 March 2023
+
+Total Time: 2 hrs 10 mins
+
+Other            1 hr 5 mins     >>>>>>>>>>>>-------------   49.99 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
