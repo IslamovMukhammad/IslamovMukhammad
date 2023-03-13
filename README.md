@@ -111,6 +111,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2057%20mins-blue)
 
