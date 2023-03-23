@@ -28,7 +28,7 @@
          <br/>
         <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamovMukhammad&hide=c%23,powershell,Html,Python,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IslamovMukhammad&hide=c%23,powershell,Html,Python,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
          <p align="center">                     
@@ -49,7 +49,7 @@
 <!--     visitors         -->
             </p>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=IslamovMukhammad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br><br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=IslamovMukhammad&theme=radical&show_icons=true&hide_border=true" />
+         <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IslamovMukhammad&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/>
 <!--                   <p align="center">
                     <a href="https://guilyx.vercel.app/api/now-playing?open">
