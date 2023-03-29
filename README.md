@@ -177,6 +177,18 @@ HTML                     1 repo              █░░░░░░░░░░�
  Last Updated on 29/03/2023 01:27:57 UTC
 <!--END_SECTION:waka-->
 
+---
+### 💻 Пройденные курсы: [Courses completed]
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| online.pdp.uz/ Старт в программировании iOS                     | 07/2020 - 07/2021 |
+| udemy.com/The Complete iOS App Development Bootcamp             | 07/2021 - 07/2022 |
+| youtube.com/@SwiftfulThinking Swift UI Bootcam                  | 05/2022 - 08/2022 |
+| youtube.com/@iOSAcademy SwiftUI: Tutorials & Walkthroughs       | 07/2022 - xx/2023 |
+| skillbox.ru/Профессия iOS-разработчик                           | 10/2022 - xx/2023 |
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
