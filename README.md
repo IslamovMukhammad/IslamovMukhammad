@@ -111,6 +111,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
 </picture>
 
+![snake animation](https://github.com/<infinitwo>/<infinitwo>/blob/output/github-contribution-grid-snake2.svg)
+
 ---
 (unfortunately waka doesn't work with xcode)
 
