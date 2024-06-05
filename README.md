@@ -183,7 +183,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 | youtube.com/@SwiftfulThinking Swift UI Bootcam                  | 05/2022 - 08/2022 |
 | youtube.com/@iOSAcademy SwiftUI: Tutorials & Walkthroughs       | 07/2022 - xx/2023 |
 | skillbox.ru/Профессия iOS-разработчик                           | 10/2022 - xx/2023 |
-
+.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
