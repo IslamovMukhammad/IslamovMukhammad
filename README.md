@@ -84,21 +84,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 181 | 401 | 109 |
+| Current | 294 | 401 | 250 |
 | Best | No Rating | 431 | 261 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Elliotisbadatchess12 | **IslamovMuhammad** | timeout ❌ | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/p1p1p2p/1p6/3r3P/1PK5/P1P2n2/8/8 b - -">Link</a> | Bullet |
-| **IslamovMuhammad** | pAoOmG | win 🥇 | 27/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q1kbnr/ppp1pppp/2n5/3p4/8/1PP1P1P1/P2P1P1P/RNBQK1NR b KQkq -">Link</a> | Bullet |
-| hairulresky | **IslamovMuhammad** | timeout ❌ | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/p1p4p/1pP3p1/8/2R4q/2N5/PPPK2PP/8 b - -">Link</a> | Bullet |
-| **IslamovMuhammad** | jambotforjam | timeout ❌ | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/2p1n1pp/p1p2p2/3pp3/8/2P1P1PN/PP1P1P1P/RNB1K2R w KQkq -">Link</a> | Bullet |
-| proneethgaddam | **IslamovMuhammad** | win 🥇 | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p1pp1ppp/1pn2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq -">Link</a> | Bullet |
-| **IslamovMuhammad** | Carlnum | win 🥇 | 24/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/8/4P2N/PPPP1PPP/RNBQKB1R b KQkq -">Link</a> | Blitz |
-| **IslamovMuhammad** | JigaSebastian | timeout ❌ | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/ppp1pp2/6p1/4b3/1K5r/P1NP4/1P1P4/q7 w - -">Link</a> | Blitz |
-| **IslamovMuhammad** | robinglass1 | checkmated ❌ | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/ppp2p2/6p1/2p1p2p/4n1b1/1P4N1/P1PP1q1P/RNQ1K2R w KQkq -">Link</a> | Blitz |
-| john_doe1939 | **IslamovMuhammad** | win 🥇 | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/ppp2p2/3pp2p/7r/PPP1N3/7K/7P/R7 w - -">Link</a> | Blitz |
-| Jandro167 | **IslamovMuhammad** | win 🥇 | 13/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -">Link</a> | Blitz |
+| ben007jkhvvnjbb | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1br1/5k1p/p2p1pp1/q1p2b2/2P5/1P1Q2P1/1B1PPP1P/4K2R b K -">Link</a> | Rapid |
+| sepaycez | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/p1pb2pp/1p3p2/4P3/1nP1P3/2N5/P5PP/R1BQKB1R w KQkq -">Link</a> | Bullet |
+| **IslamovMuhammad** | sepaycez | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k1nB/p1p4p/8/6N1/8/2r1P3/P3R2P/R3K3 b - -">Link</a> | Bullet |
+| sepaycez | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rk3r/p4ppp/n3p3/4P3/b5PP/5N2/P7/2K4R w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | Klasseman109 | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/6pp/p4p2/1p6/4b3/6P1/2q2b1P/K2r4 w - -">Link</a> | Bullet |
+| uwge7y3 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkb1r/pppppppp/8/7n/4P3/8/PPPP1PPP/RNB1KBNR w KQkq -">Link</a> | Bullet |
+| **IslamovMuhammad** | susital1 | timeout ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/ppp2qp1/8/7K/2B3r1/1P6/P1P5/b1B4R w q -">Link</a> | Bullet |
+| Alimehralian_21 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1b1r/pp2pkpp/q3bp2/8/8/4PK2/PPP3PP/RN4NR w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | nackalica | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/p2b1kpp/8/4p3/1b6/1PPK1N2/P1nP3P/R1B2B1R b - -">Link</a> | Bullet |
+| **IslamovMuhammad** | duolingo-oscar-v1 | win 🥇 | 12/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1R4/8/1BQ5/4p3/4P3/7p/1P5P/4KBNR b - - 1 34">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
