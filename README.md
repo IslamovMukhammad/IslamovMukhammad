@@ -84,11 +84,12 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 137 | 401 | 338 |
+| Current | 137 | 401 | 360 |
 | Best | No Rating | 431 | 261 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | bishboy36 | win 🥇 | 29/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/ppp5/2p3Q1/3b3p/3P4/5PP1/P1P4P/2B1K2R b K -">Link</a> | Bullet |
 | nikolozgogeshvili | **IslamovMuhammad** | win 🥇 | 28/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp3ppp/2p5/5b2/3q4/8/PPP2PPP/R1B1KB1R w KQkq -">Link</a> | Bullet |
 | **IslamovMuhammad** | Acmm944 | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp1bpQp/3q1n2/1b2p3/1P2P3/B2p1P1P/P4P2/RN2K1R1 b Q -">Link</a> | Bullet |
 | **IslamovMuhammad** | denvuur | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp4p/2np4/5b1p/8/P2q3P/P1p2PP1/R1B1K2R b - -">Link</a> | Bullet |
@@ -98,7 +99,6 @@
 | **IslamovMuhammad** | RIIFAN | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p3ppp/2p2n2/p5B1/Q2qp2P/2b2bP1/PP2K3/3R1B1R w kq -">Link</a> | Rapid |
 | Alicecaglisse18 | **IslamovMuhammad** | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/p3Qp1p/8/2pNP1p1/4P3/3P4/q1PB1P1P/2R1K2R b Kkq -">Link</a> | Rapid |
 | **IslamovMuhammad** | QlsAdham | timeout ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/8/8/3K2q1/8/8/8 w - -">Link</a> | Rapid |
-| Lubuy7 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1pppp/8/8/b1pP4/6P1/PP2PP1P/RNB1KBNR w KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
