@@ -84,11 +84,13 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 137 | 401 | 360 |
+| Current | 137 | 401 | 359 |
 | Best | No Rating | 431 | 261 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| vlastelinuro4ka | **IslamovMuhammad** | timeout ❌ | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1bR1/pppk3Q/3p4/4pp2/2B5/1PB5/P1PPKP1P/6R1 b - -">Link</a> | Bullet |
+| Body2244 | **IslamovMuhammad** | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/p1p2ppp/4p3/8/P1p1P2b/2P1N3/P2BNKPP/R6R w kq -">Link</a> | Bullet |
 | **IslamovMuhammad** | bishboy36 | win 🥇 | 29/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/ppp5/2p3Q1/3b3p/3P4/5PP1/P1P4P/2B1K2R b K -">Link</a> | Bullet |
 | nikolozgogeshvili | **IslamovMuhammad** | win 🥇 | 28/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp3ppp/2p5/5b2/3q4/8/PPP2PPP/R1B1KB1R w KQkq -">Link</a> | Bullet |
 | **IslamovMuhammad** | Acmm944 | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp1bpQp/3q1n2/1b2p3/1P2P3/B2p1P1P/P4P2/RN2K1R1 b Q -">Link</a> | Bullet |
@@ -97,8 +99,6 @@
 | ihab123123123 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/4Rp1p/5K2/1p6/1Pk3P1/8/1P5P/R7 w - -">Link</a> | Bullet |
 | **IslamovMuhammad** | assir_5 | timeout ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/ppp3pp/8/P2P1n2/1P4K1/3Q4/8/RNB1rB2 w - -">Link</a> | Bullet |
 | **IslamovMuhammad** | RIIFAN | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p3ppp/2p2n2/p5B1/Q2qp2P/2b2bP1/PP2K3/3R1B1R w kq -">Link</a> | Rapid |
-| Alicecaglisse18 | **IslamovMuhammad** | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/p3Qp1p/8/2pNP1p1/4P3/3P4/q1PB1P1P/2R1K2R b Kkq -">Link</a> | Rapid |
-| **IslamovMuhammad** | QlsAdham | timeout ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/8/8/3K2q1/8/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
