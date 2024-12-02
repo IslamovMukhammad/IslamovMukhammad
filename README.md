@@ -84,21 +84,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 137 | 401 | 359 |
+| Current | 299 | 401 | 343 |
 | Best | No Rating | 431 | 261 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| vlastelinuro4ka | **IslamovMuhammad** | timeout ❌ | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1bR1/pppk3Q/3p4/4pp2/2B5/1PB5/P1PPKP1P/6R1 b - -">Link</a> | Bullet |
-| Body2244 | **IslamovMuhammad** | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/p1p2ppp/4p3/8/P1p1P2b/2P1N3/P2BNKPP/R6R w kq -">Link</a> | Bullet |
-| **IslamovMuhammad** | bishboy36 | win 🥇 | 29/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/ppp5/2p3Q1/3b3p/3P4/5PP1/P1P4P/2B1K2R b K -">Link</a> | Bullet |
-| nikolozgogeshvili | **IslamovMuhammad** | win 🥇 | 28/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp3ppp/2p5/5b2/3q4/8/PPP2PPP/R1B1KB1R w KQkq -">Link</a> | Bullet |
-| **IslamovMuhammad** | Acmm944 | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp1bpQp/3q1n2/1b2p3/1P2P3/B2p1P1P/P4P2/RN2K1R1 b Q -">Link</a> | Bullet |
-| **IslamovMuhammad** | denvuur | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp4p/2np4/5b1p/8/P2q3P/P1p2PP1/R1B1K2R b - -">Link</a> | Bullet |
-| writer1966 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p6p/bp2k3/6BN/6p1/8/PPP2PPP/3R2K1 w - -">Link</a> | Bullet |
-| ihab123123123 | **IslamovMuhammad** | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b5/4Rp1p/5K2/1p6/1Pk3P1/8/1P5P/R7 w - -">Link</a> | Bullet |
-| **IslamovMuhammad** | assir_5 | timeout ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/ppp3pp/8/P2P1n2/1P4K1/3Q4/8/RNB1rB2 w - -">Link</a> | Bullet |
-| **IslamovMuhammad** | RIIFAN | checkmated ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1p3ppp/2p2n2/p5B1/Q2qp2P/2b2bP1/PP2K3/3R1B1R w kq -">Link</a> | Rapid |
+| **IslamovMuhammad** | rlove1996 | checkmated ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/k7/1q6/2rK4 w - -">Link</a> | Rapid |
+| justnhlsmok | **IslamovMuhammad** | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4N3/pp2bk1p/8/8/8/8/PP3PP1/2r2K2 w - -">Link</a> | Rapid |
+| **IslamovMuhammad** | VanessaD17 | checkmated ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/1p2pN1p/2p3p1/8/2B5/N7/P4PPP/b1Bq1K1R w kq -">Link</a> | Rapid |
+| pedrap | **IslamovMuhammad** | timeout ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4R2p/7P/8/4kp1P/5q2/6RK/8 b - -">Link</a> | Rapid |
+| **IslamovMuhammad** | principalcalcados | checkmated ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/8/1Kq5/3q4/8/8/8/8 w - -">Link</a> | Rapid |
+| **IslamovMuhammad** | chese-l | checkmated ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/4k3/p5q1/K2q4/6q1/8/8 w - -">Link</a> | Rapid |
+| **IslamovMuhammad** | kadir0707 | checkmated ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/p7/1npP4/1p1p4/8/1B5b/PPP3qP/R2Q2K1 w q -">Link</a> | Rapid |
+| kadir0707 | **IslamovMuhammad** | checkmated ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pppp1Qpp/8/n5Pn/2B1p3/4P3/PPPP1P1P/RNB1K1NR b KQkq -">Link</a> | Rapid |
+| **IslamovMuhammad** | kadir0707 | checkmated ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7K/5kP1/8/7q/8/8/8/8 w - -">Link</a> | Rapid |
+| Maharshi25 | **IslamovMuhammad** | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp1k1p2/6p1/3K4/8/2q5/2n2PPP/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
