@@ -93,7 +93,7 @@
   </td>
   </table>
 
-<a href="https://www.youtube.com/c/infinitwo_?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/@InfiniTWO_?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
 
 </details>
 
