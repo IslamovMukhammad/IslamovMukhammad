@@ -84,21 +84,21 @@
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 527 | 401 | 355 |
+| Current | 535 | 323 | 355 |
 | Best | 441 | 431 | 261 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| johnerickabellana | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4R1p/4R1p1/1B4k1/3P4/8/P1P2PPP/2K5 w - -">Link</a> | Bullet |
+| mckeague | **IslamovMuhammad** | checkmated ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Nn2r3/pp2k1Bp/5Q2/8/7P/8/PPP2PP1/2KR4 b - -">Link</a> | Bullet |
+| alhassan1mohamed | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5R1N/3p4/1Q1Pp3/2P5/4KP1P/2k5 w - -">Link</a> | Blitz |
+| **IslamovMuhammad** | umang-28 | resigned ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/ppp3pp/8/2p1bp2/4N3/3B1KPP/Pq3P2/8 w - -">Link</a> | Blitz |
+| LuminarFlux | **IslamovMuhammad** | checkmated ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1r2/5p1p/1pNp4/pN3Q2/2P5/7P/PP4P1/R3R1K1 b - -">Link</a> | Blitz |
+| **IslamovMuhammad** | mdkareem89 | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb2knr/ppN3Q1/2pp1p2/4p2p/4P3/2PP4/PP5P/R2K2R1 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | maakier | stalemate ⏸️ | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p2/5P2/3p4/1p1p4/1PkP4/2P5/2K5 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | Vladillino | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp4pp/7r/2p2p2/8/2P2P2/P1K3RP/5B2 b - -">Link</a> | Bullet |
 | Rocky05vel | **IslamovMuhammad** | checkmated ❌ | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5KQk/8/8/8 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | Niku_30 | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/p4p2/3p1n1p/5Kp1/4P3/5P1P/Prp4P/R6R b - -">Link</a> | Bullet |
-| jespermassart | **IslamovMuhammad** | checkmated ❌ | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5B2/8/6P1/8/kQ1K4/8 b - -">Link</a> | Rapid |
-| **IslamovMuhammad** | sistema999 | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1r/p5Q1/1kp1R3/7p/1b1P4/8/PP3PPP/R1B3K1 b - -">Link</a> | Rapid |
-| **IslamovMuhammad** | ximbiologer-000 | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/ppp1bppp/B4n2/3P4/8/2N5/PPPP1PPP/R1B1K1NR b KQkq -">Link</a> | Rapid |
-| aC0MEDiAN | **IslamovMuhammad** | resigned ❌ | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1bkr/ppN3p1/4Q2p/4n1N1/8/8/PP3PPP/R1B2RK1 b - -">Link</a> | Rapid |
-| BikerVVitch666 | **IslamovMuhammad** | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/3Kbppp/3q4/3P1P2/8/8/7P/8 w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | tomakln | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1k2/1pp2p1p/5Np1/p7/8/5P2/PPP3PP/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
