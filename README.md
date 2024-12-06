@@ -66,6 +66,7 @@
 
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  
 ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UC6gSajTATNp4EBujVW1MuYg&theme=dark)
 ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDz_2M7ioJ_Cs85_PrSacpw&theme=dark)
 
