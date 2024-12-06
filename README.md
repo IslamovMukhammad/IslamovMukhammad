@@ -67,7 +67,6 @@
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
   <table>
-    
   <tr>
     <td>
   
@@ -79,8 +78,9 @@
   ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UC6gSajTATNp4EBujVW1MuYg&theme=dark)
   </td>
   </tr>
-  
-  </table>
+   <tr>
+    <td colspan="2">
+
 
 
 
@@ -92,6 +92,8 @@
 [![Me and bro: 😁  #coding #developer #memes #developermemes](https://ytcards.demolab.com/?id=XudXBgCAbOg&title=Me+and+bro%3A+%F0%9F%98%81++%23coding+%23developer+%23memes+%23developermemes&lang=en&timestamp=1721575784&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Me and bro: 😁  #coding #developer #memes #developermemes")](https://www.youtube.com/watch?v=XudXBgCAbOg)
 [![Make Your Desktop Look Clean and Professional (Simple and Easy) 2024](https://ytcards.demolab.com/?id=Lwn7N4ftXGU&title=Make+Your+Desktop+Look+Clean+and+Professional+%28Simple+and+Easy%29+2024&lang=en&timestamp=1719507617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Your Desktop Look Clean and Professional (Simple and Easy) 2024")](https://www.youtube.com/watch?v=Lwn7N4ftXGU)
 <!-- END YOUTUBE-CARDS -->
+  </td>
+  </table>
 
 </details>
 
