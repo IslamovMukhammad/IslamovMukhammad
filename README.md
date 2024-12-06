@@ -70,9 +70,17 @@
   i really like music :headphones:
 </h1>
 
-<a href="https://www.data-card-for-spotify.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
-  <img src="https://www.data-card-for-spotify.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
-</a>
+
+ <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ziehm6apuzanaqu7v5y7ruzdsy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+
+
+  <details>
+    <summary>View Data Card for Spotify</summary>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
+    </a>
+  </details>
+</div>
 
 <h1>
   **♟️ My Chess.com Stats** 
