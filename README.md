@@ -52,49 +52,11 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadIslamov?theme=nord)
 
-<h1>
-  i really like music :headphones:
-</h1>
 
-
- <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ziehm6apuzanaqu7v5y7ruzdsy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
-
-
-  <details>
-    <summary>View Data Card for Spotify</summary>
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
-    </a>
-  </details>
 </div>
 
 <h1>
-  **♟️ My Chess.com Stats** 
-</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=dark">
-  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=graywhite">
-</picture>
-
-<!--START_SECTION:chessStats-->
-<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
-
-| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Vincent_ganyeng | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q3r/ppp1bk1p/6p1/3bn3/8/2N5/PPPP1PPP/R1B2RK1 w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | King88Kong | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk5r/6pp/p1Q1p3/2n3q1/3p4/5N2/PPPP1PPP/R1B1K2R b KQ -">Link</a> | Rapid |
-| **IslamovMuhammad** | marianosm | stalemate ⏸️ | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/k7/3Q4/8/8/8/8/2K5 b - -">Link</a> | Rapid |
-| castawaywc | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/8/P7/3K4/8/8/2q5 b - -">Link</a> | Rapid |
-| **IslamovMuhammad** | ChoyViray | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/p7/1p2R3/4PR1k/6p1/8/PPP1K1PP/8 b - -">Link</a> | Rapid |
-| usavra | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7p/5p2/p7/8/8/1q6/q3K3 w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | ishant368 | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/p4ppp/2p5/3pP3/2p2Pn1/P1P4P/2P1N1P1/R2Q1RK1 w - d6">Link</a> | Rapid |
-| johnerickabellana | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4R1p/4R1p1/1B4k1/3P4/8/P1P2PPP/2K5 w - -">Link</a> | Bullet |
-| mckeague | **IslamovMuhammad** | checkmated ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Nn2r3/pp2k1Bp/5Q2/8/7P/8/PPP2PP1/2KR4 b - -">Link</a> | Bullet |
-| alhassan1mohamed | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5R1N/3p4/1Q1Pp3/2P5/4KP1P/2k5 w - -">Link</a> | Blitz |
-
-<!--END_SECTION:chessStats-->
-- 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
 
 ## My contribution graph ))
 
@@ -277,6 +239,73 @@
 
   
 </details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/chessg.gif"  width="29"/> Chess.com</h2></summary>
+
+<div>
+
+  **♟️ My Chess.com Stats** 
+</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=dark">
+  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=graywhite">
+</picture>
+
+<!--START_SECTION:chessStats-->
+<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
+
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Vincent_ganyeng | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q3r/ppp1bk1p/6p1/3bn3/8/2N5/PPPP1PPP/R1B2RK1 w - -">Link</a> | Rapid |
+| **IslamovMuhammad** | King88Kong | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk5r/6pp/p1Q1p3/2n3q1/3p4/5N2/PPPP1PPP/R1B1K2R b KQ -">Link</a> | Rapid |
+| **IslamovMuhammad** | marianosm | stalemate ⏸️ | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/k7/3Q4/8/8/8/8/2K5 b - -">Link</a> | Rapid |
+| castawaywc | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/8/P7/3K4/8/8/2q5 b - -">Link</a> | Rapid |
+| **IslamovMuhammad** | ChoyViray | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/p7/1p2R3/4PR1k/6p1/8/PPP1K1PP/8 b - -">Link</a> | Rapid |
+| usavra | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7p/5p2/p7/8/8/1q6/q3K3 w - -">Link</a> | Rapid |
+| **IslamovMuhammad** | ishant368 | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/p4ppp/2p5/3pP3/2p2Pn1/P1P4P/2P1N1P1/R2Q1RK1 w - d6">Link</a> | Rapid |
+| johnerickabellana | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4R1p/4R1p1/1B4k1/3P4/8/P1P2PPP/2K5 w - -">Link</a> | Bullet |
+| mckeague | **IslamovMuhammad** | checkmated ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Nn2r3/pp2k1Bp/5Q2/8/7P/8/PPP2PP1/2KR4 b - -">Link</a> | Bullet |
+| alhassan1mohamed | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5R1N/3p4/1Q1Pp3/2P5/4KP1P/2k5 w - -">Link</a> | Blitz |
+
+<!--END_SECTION:chessStats-->
+- 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
+  
+</div>
+  
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/music.gif"  width="29"/> Spotify </h2></summary>
+
+  <div>
+<h1>
+  i really like music :headphones:
+</h1>
+
+
+ <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ziehm6apuzanaqu7v5y7ruzdsy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+
+
+  <details>
+    <summary>View Data Card for Spotify</summary>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
+    </a>
+  </details>
+    
+  </div>
+
+</datails>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/music.gif"  width="29"/> Spotify </h2></summary>
+
+  
+</details>
+
+
 
 ## <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
 
