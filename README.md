@@ -82,8 +82,6 @@
     <td colspan="2">
 
 
-
-
 <!-- BEGIN YOUTUBE-CARDS -->
 [![многие не понимают, что скрывается за всей этой красивой картинкой 😕 #developer #coder](https://ytcards.demolab.com/?id=5Tmj8x0CN8M&title=%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5+%D0%BD%D0%B5+%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%82%2C+%D1%87%D1%82%D0%BE+%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F+%D0%B7%D0%B0+%D0%B2%D1%81%D0%B5%D0%B9+%D1%8D%D1%82%D0%BE%D0%B9+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9+%F0%9F%98%95+%23developer+%23coder&lang=en&timestamp=1722484804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "многие не понимают, что скрывается за всей этой красивой картинкой 😕 #developer #coder")](https://www.youtube.com/watch?v=5Tmj8x0CN8M)
 [![Дедлайн завтра, а у тебя ничего не готово 🥲 #developermemes #coding #programming #programmer](https://ytcards.demolab.com/?id=UTXRLaOgtTo&title=%D0%94%D0%B5%D0%B4%D0%BB%D0%B0%D0%B9%D0%BD+%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%2C+%D0%B0+%D1%83+%D1%82%D0%B5%D0%B1%D1%8F+%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE+%D0%BD%D0%B5+%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE+%F0%9F%A5%B2+%23developermemes+%23coding+%23programming+%23programmer&lang=en&timestamp=1722438464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Дедлайн завтра, а у тебя ничего не готово 🥲 #developermemes #coding #programming #programmer")](https://www.youtube.com/watch?v=UTXRLaOgtTo)
@@ -94,6 +92,8 @@
 <!-- END YOUTUBE-CARDS -->
   </td>
   </table>
+
+<a href="https://www.youtube.com/c/infinitwo_?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
 
 </details>
 
