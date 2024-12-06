@@ -13,58 +13,6 @@
 </p>
 
 
-<h1>
-   Recently joined leetcode
-</h1>
-
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-  <table>
-  <tr>
-    <td>
-  
-  ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDz_2M7ioJ_Cs85_PrSacpw&theme=dark)  
-    </td>
-  
-  <td>
-  
-  ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UC6gSajTATNp4EBujVW1MuYg&theme=dark)
-  </td>
-  </tr>
-   <tr>
-    <td colspan="2">
-
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![многие не понимают, что скрывается за всей этой красивой картинкой 😕 #developer #coder](https://ytcards.demolab.com/?id=5Tmj8x0CN8M&title=%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5+%D0%BD%D0%B5+%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%82%2C+%D1%87%D1%82%D0%BE+%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F+%D0%B7%D0%B0+%D0%B2%D1%81%D0%B5%D0%B9+%D1%8D%D1%82%D0%BE%D0%B9+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9+%F0%9F%98%95+%23developer+%23coder&lang=en&timestamp=1722484804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "многие не понимают, что скрывается за всей этой красивой картинкой 😕 #developer #coder")](https://www.youtube.com/watch?v=5Tmj8x0CN8M)
-[![Дедлайн завтра, а у тебя ничего не готово 🥲 #developermemes #coding #programming #programmer](https://ytcards.demolab.com/?id=UTXRLaOgtTo&title=%D0%94%D0%B5%D0%B4%D0%BB%D0%B0%D0%B9%D0%BD+%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%2C+%D0%B0+%D1%83+%D1%82%D0%B5%D0%B1%D1%8F+%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE+%D0%BD%D0%B5+%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE+%F0%9F%A5%B2+%23developermemes+%23coding+%23programming+%23programmer&lang=en&timestamp=1722438464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Дедлайн завтра, а у тебя ничего не готово 🥲 #developermemes #coding #programming #programmer")](https://www.youtube.com/watch?v=UTXRLaOgtTo)
-[![GitHub Profilida Spotify Treklarini Ko’rsatish /  GitHub 2024](https://ytcards.demolab.com/?id=YngUMY9h1YQ&title=GitHub+Profilida+Spotify+Treklarini+Ko%E2%80%99rsatish+%2F++GitHub+2024&lang=en&timestamp=1722413558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GitHub Profilida Spotify Treklarini Ko’rsatish /  GitHub 2024")](https://www.youtube.com/watch?v=YngUMY9h1YQ)
-[![Hey Google 🥲             #developermemes](https://ytcards.demolab.com/?id=aIQ9xpnturs&title=Hey+Google+%F0%9F%A5%B2+++++++++++++%23developermemes&lang=en&timestamp=1721829540&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hey Google 🥲             #developermemes")](https://www.youtube.com/watch?v=aIQ9xpnturs)
-[![Me and bro: 😁  #coding #developer #memes #developermemes](https://ytcards.demolab.com/?id=XudXBgCAbOg&title=Me+and+bro%3A+%F0%9F%98%81++%23coding+%23developer+%23memes+%23developermemes&lang=en&timestamp=1721575784&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Me and bro: 😁  #coding #developer #memes #developermemes")](https://www.youtube.com/watch?v=XudXBgCAbOg)
-[![Make Your Desktop Look Clean and Professional (Simple and Easy) 2024](https://ytcards.demolab.com/?id=Lwn7N4ftXGU&title=Make+Your+Desktop+Look+Clean+and+Professional+%28Simple+and+Easy%29+2024&lang=en&timestamp=1719507617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Your Desktop Look Clean and Professional (Simple and Easy) 2024")](https://www.youtube.com/watch?v=Lwn7N4ftXGU)
-<!-- END YOUTUBE-CARDS -->
-  </td>
-  </table>
-
-<a href="https://www.youtube.com/@InfiniTWO_?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-
-</details>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/MuhammadIslamov?theme=nord)
-
-
-</div>
-
-<h1>
-
-
-## My contribution graph ))
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 ---
 
@@ -192,6 +140,7 @@
 
 </details>
 
+---
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
@@ -222,6 +171,8 @@
   </div>
 </details>
 
+---
+
 <details>
   <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
@@ -239,6 +190,8 @@
 
   
 </details>
+
+---
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/chessg.gif"  width="29"/> Chess.com</h2></summary>
@@ -276,6 +229,8 @@
   
 </details>
 
+---
+
 <details>
   <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/music.gif"  width="29"/> Spotify </h2></summary>
 
@@ -288,24 +243,56 @@
  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ziehm6apuzanaqu7v5y7ruzdsy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 
 
-  <details>
-    <summary>View Data Card for Spotify</summary>
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
+
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy">
       <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31ziehm6apuzanaqu7v5y7ruzdsy" alt="Data Card for Spotify">
     </a>
-  </details>
+
     
   </div>
 
 </datails>
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/music.gif"  width="29"/> Spotify </h2></summary>
+</details>
 
+---
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/youtube.gif"  width="29"/> YouTube </h2></summary>
+<div>
+  <table>
+  <tr>
+    <td>
+  
+  ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UCDz_2M7ioJ_Cs85_PrSacpw&theme=dark)  
+    </td>
+  
+  <td>
+  
+  ![Youtube channel stats](https://youtube-stats-card.vercel.app/api?channelid=UC6gSajTATNp4EBujVW1MuYg&theme=dark)
+  </td>
+  </tr>
+   <tr>
+    <td colspan="2">
+
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![многие не понимают, что скрывается за всей этой красивой картинкой 😕 #developer #coder](https://ytcards.demolab.com/?id=5Tmj8x0CN8M&title=%D0%BC%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5+%D0%BD%D0%B5+%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%82%2C+%D1%87%D1%82%D0%BE+%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F+%D0%B7%D0%B0+%D0%B2%D1%81%D0%B5%D0%B9+%D1%8D%D1%82%D0%BE%D0%B9+%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE%D0%B9+%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9+%F0%9F%98%95+%23developer+%23coder&lang=en&timestamp=1722484804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "многие не понимают, что скрывается за всей этой красивой картинкой 😕 #developer #coder")](https://www.youtube.com/watch?v=5Tmj8x0CN8M)
+[![Дедлайн завтра, а у тебя ничего не готово 🥲 #developermemes #coding #programming #programmer](https://ytcards.demolab.com/?id=UTXRLaOgtTo&title=%D0%94%D0%B5%D0%B4%D0%BB%D0%B0%D0%B9%D0%BD+%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0%2C+%D0%B0+%D1%83+%D1%82%D0%B5%D0%B1%D1%8F+%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE+%D0%BD%D0%B5+%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BE+%F0%9F%A5%B2+%23developermemes+%23coding+%23programming+%23programmer&lang=en&timestamp=1722438464&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Дедлайн завтра, а у тебя ничего не готово 🥲 #developermemes #coding #programming #programmer")](https://www.youtube.com/watch?v=UTXRLaOgtTo)
+[![GitHub Profilida Spotify Treklarini Ko’rsatish /  GitHub 2024](https://ytcards.demolab.com/?id=YngUMY9h1YQ&title=GitHub+Profilida+Spotify+Treklarini+Ko%E2%80%99rsatish+%2F++GitHub+2024&lang=en&timestamp=1722413558&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GitHub Profilida Spotify Treklarini Ko’rsatish /  GitHub 2024")](https://www.youtube.com/watch?v=YngUMY9h1YQ)
+[![Hey Google 🥲             #developermemes](https://ytcards.demolab.com/?id=aIQ9xpnturs&title=Hey+Google+%F0%9F%A5%B2+++++++++++++%23developermemes&lang=en&timestamp=1721829540&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hey Google 🥲             #developermemes")](https://www.youtube.com/watch?v=aIQ9xpnturs)
+[![Me and bro: 😁  #coding #developer #memes #developermemes](https://ytcards.demolab.com/?id=XudXBgCAbOg&title=Me+and+bro%3A+%F0%9F%98%81++%23coding+%23developer+%23memes+%23developermemes&lang=en&timestamp=1721575784&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Me and bro: 😁  #coding #developer #memes #developermemes")](https://www.youtube.com/watch?v=XudXBgCAbOg)
+[![Make Your Desktop Look Clean and Professional (Simple and Easy) 2024](https://ytcards.demolab.com/?id=Lwn7N4ftXGU&title=Make+Your+Desktop+Look+Clean+and+Professional+%28Simple+and+Easy%29+2024&lang=en&timestamp=1719507617&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Your Desktop Look Clean and Professional (Simple and Easy) 2024")](https://www.youtube.com/watch?v=Lwn7N4ftXGU)
+<!-- END YOUTUBE-CARDS -->
+  </td>
+  </table>
+
+<a href="https://www.youtube.com/@InfiniTWO_?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+</div>
   
 </details>
 
-
+---
 
 ## <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
 
@@ -329,6 +316,18 @@
 | youtube.com/@iOSAcademy SwiftUI: Tutorials & Walkthroughs       | 07/2022 - xx/2023 |
 | skillbox.ru/Профессия iOS-разработчик                           | 10/2022 - xx/2023 |
 .
+
+---
+
+## My contribution graph ))
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
