@@ -78,6 +78,10 @@
   **♟️ My Chess.com Stats** 
 </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=dark">
+  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=IslamovMuhammad&theme=graywhite">
+</picture>
 
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
