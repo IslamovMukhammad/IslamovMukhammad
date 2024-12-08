@@ -211,16 +211,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Vincent_ganyeng | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q3r/ppp1bk1p/6p1/3bn3/8/2N5/PPPP1PPP/R1B2RK1 w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | King88Kong | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk5r/6pp/p1Q1p3/2n3q1/3p4/5N2/PPPP1PPP/R1B1K2R b KQ -">Link</a> | Rapid |
-| **IslamovMuhammad** | marianosm | stalemate ⏸️ | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/k7/3Q4/8/8/8/8/2K5 b - -">Link</a> | Rapid |
-| castawaywc | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/8/P7/3K4/8/8/2q5 b - -">Link</a> | Rapid |
-| **IslamovMuhammad** | ChoyViray | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3B4/p7/1p2R3/4PR1k/6p1/8/PPP1K1PP/8 b - -">Link</a> | Rapid |
-| usavra | **IslamovMuhammad** | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/7p/5p2/p7/8/8/1q6/q3K3 w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | ishant368 | win 🥇 | 6/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/p4ppp/2p5/3pP3/2p2Pn1/P1P4P/2P1N1P1/R2Q1RK1 w - d6">Link</a> | Rapid |
-| johnerickabellana | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4R1p/4R1p1/1B4k1/3P4/8/P1P2PPP/2K5 w - -">Link</a> | Bullet |
-| mckeague | **IslamovMuhammad** | checkmated ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Nn2r3/pp2k1Bp/5Q2/8/7P/8/PPP2PP1/2KR4 b - -">Link</a> | Bullet |
-| alhassan1mohamed | **IslamovMuhammad** | win 🥇 | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5R1N/3p4/1Q1Pp3/2P5/4KP1P/2k5 w - -">Link</a> | Blitz |
+| nia_1199185 | **IslamovMuhammad** | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp2p2/7p/4q3/7P/3K1P2/P7/R6Q w - -">Link</a> | Bullet |
+| OctoberAmbiance | **IslamovMuhammad** | checkmated ❌ | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rkr/pBpQ4/1p3p1p/4p3/3pP2P/P4P2/1PP2P2/R3K1R1 b Q -">Link</a> | Bullet |
+| **IslamovMuhammad** | GURV33R | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k4r2/pp4pp/4pq2/2b5/8/3P2QP/P4PPK/1R6 b - -">Link</a> | Bullet |
+| **IslamovMuhammad** | Charlesva | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5p/3k4/2p1b3/3P4/5P2/1P3P1P/1K2R3 b - -">Link</a> | Bullet |
+| GEFHD | **IslamovMuhammad** | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/6p1/3R1p2/1B6/5P2/1P6/1K4bP/8 w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | Mariariyaz | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r2k/p4pbp/5n2/1p3P2/8/1B3qP1/P1P2P1P/1R1R1K2 b - -">Link</a> | Bullet |
+| **IslamovMuhammad** | josepfuo | checkmated ❌ | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2knr/1p1p1p1p/p3p1p1/4n1B1/P3P3/2b1K3/3q1PPP/4RBNR w - -">Link</a> | Bullet |
+| limamcheikh | **IslamovMuhammad** | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/B6p/3P2p1/8/1PN5/4P3/5PPP/2KR3R w - -">Link</a> | Bullet |
+| mehtabaziz | **IslamovMuhammad** | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/p6p/2p1k1p1/8/8/P2P4/1PP4P/2K5 w - -">Link</a> | Bullet |
+| Eyphel13k5 | **IslamovMuhammad** | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppp2ppp/8/rq2P3/2KP2P1/2P2N2/7P/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
