@@ -211,6 +211,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| NichyRaa | **IslamovMuhammad** | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5B1p/3p1Q1k/p2P4/7P/PP3PP1/4R1K1 b - -">Link</a> | Rapid |
+| **IslamovMuhammad** | shankar_tellakula | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pr6/1p1pN1pk/8/8/P6R/1nP2PPP/6K1 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | NotAHackerAtChess | resigned ❌ | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/pppp1kpp/8/4p3/4P3/5N2/PPnP1PPP/RNB1K2R w KQ -">Link</a> | Rapid |
 | Yash2276 | **IslamovMuhammad** | checkmated ❌ | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/7R/r4kRP/1p1p1p1B/1PpPpP2/p1P1P3/P1K5/8 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | Babostratos | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/p7/8/k7/5K2/8 b - -">Link</a> | Rapid |
@@ -219,8 +221,6 @@
 | Sharven7 | **IslamovMuhammad** | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k2p/4b2p/2K5/2P1P1P1/4q3/4B2P/8 w - -">Link</a> | Rapid |
 | **IslamovMuhammad** | outlaw956 | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1r3/2Qn3p/8/1p2B3/3pP3/3P4/PPP2PPP/R3K1NR b KQ -">Link</a> | Rapid |
 | **IslamovMuhammad** | Hinashri1456 | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q4Q/8/8/7Q/3P4/P1Pk4/P3R3/5RK1 w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | kites2 | checkmated ❌ | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2b3p/3k4/2p1b1p1/2P3P1/3P1P1K/P1Q3P1/7r w - -">Link</a> | Rapid |
-| Ezekiele93 | **IslamovMuhammad** | checkmated ❌ | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3Q1k/p2p3p/1p1P2p1/3p3n/3P4/5P1q/PPP4P/R1B2RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
