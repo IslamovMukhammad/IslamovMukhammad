@@ -211,6 +211,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| cfranciotti | **IslamovMuhammad** | win 🥇 | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kr2/pp3p2/2pp4/3P2b1/8/2P4P/PP1KBq2/RN5R w q -">Link</a> | Rapid |
+| **IslamovMuhammad** | Emme0101 | resigned ❌ | 15/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2k2/p2p4/2p1p3/1p3p2/3P4/8/PPq2PKP/8 w - -">Link</a> | Rapid |
 | TranAnhQuo2010 | **IslamovMuhammad** | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2b1kpp/1p6/5p2/3P1P2/4n2P/r5PK/8 b - -">Link</a> | Rapid |
 | NichyRaa | **IslamovMuhammad** | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5B1p/3p1Q1k/p2P4/7P/PP3PP1/4R1K1 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | shankar_tellakula | win 🥇 | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pr6/1p1pN1pk/8/8/P6R/1nP2PPP/6K1 b - -">Link</a> | Rapid |
@@ -219,8 +221,6 @@
 | **IslamovMuhammad** | Babostratos | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/p7/8/k7/5K2/8 b - -">Link</a> | Rapid |
 | Liffe1952 | **IslamovMuhammad** | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/ppp3pp/2n2p2/8/P7/2r4b/2P2K1P/3r4 w - -">Link</a> | Rapid |
 | luisrf2000 | **IslamovMuhammad** | checkmated ❌ | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1qrk1/ppp2pQp/2np4/1B3N2/8/B7/P1P2PPP/R4RK1 b - -">Link</a> | Rapid |
-| Sharven7 | **IslamovMuhammad** | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k2p/4b2p/2K5/2P1P1P1/4q3/4B2P/8 w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | outlaw956 | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1r3/2Qn3p/8/1p2B3/3pP3/3P4/PPP2PPP/R3K1NR b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
