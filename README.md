@@ -211,6 +211,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | Alsacer91 | checkmated ❌ | 20/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pBp2pk1/6p1/2P1p3/4P1P1/5P2/P2q4/R4K1r w - -">Link</a> | Rapid |
 | **IslamovMuhammad** | sxdfcgvhbjvgbhn | checkmated ❌ | 17/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7N/p3k1pp/4b3/P2pKp2/3Pr3/8/8/8 w - -">Link</a> | Rapid |
 | sxdfcgvhbjvgbhn | **IslamovMuhammad** | checkmated ❌ | 17/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p7/P7/1B6/1PR1Q3/4k1K1 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | kanspiheg | stalemate ⏸️ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/5p1p/1p1b3P/2q5/4K1p1/8/1n6 w - -">Link</a> | Rapid |
@@ -220,7 +221,6 @@
 | **IslamovMuhammad** | Muahad160 | win 🥇 | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pb3ppp/2Nbp3/1N1p3n/P4B2/8/1PP2PPP/R2Q1RK1 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | mirkotorre | win 🥇 | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/ppp2Qpp/2np4/4p3/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
 | mowgli8060 | **IslamovMuhammad** | win 🥇 | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r2k/pppb2pp/5p2/2q4N/P7/2P2PP1/1P6/R4K1R w - -">Link</a> | Rapid |
-| petit50 | **IslamovMuhammad** | win 🥇 | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/5q1p/8/P7/8/2p4P/6PK/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
