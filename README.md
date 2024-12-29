@@ -211,6 +211,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | md00597 | stalemate ⏸️ | 28/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/6P1/8/5Q2/2p5/1kP5/1P3P1P/2K5 b - -">Link</a> | Rapid |
+| German20th | **IslamovMuhammad** | checkmated ❌ | 28/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q4k/3R3Q/1p4p1/pB2p1P1/P1p1P2P/2P5/5P2/1K6 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | Chickenugget107 | checkmated ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2rK1/4q3/8/7p/5nPP/8/8/8 w - -">Link</a> | Rapid |
 | **IslamovMuhammad** | gregbouze | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2k2/ppp2QR1/2n1p2p/3pPN2/B2P1r2/P2n4/1PPq1p2/1K5R b - -">Link</a> | Rapid |
 | dizzyD2313 | **IslamovMuhammad** | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/p1p2ppp/2p1p3/3p4/3PNb2/2P1P3/PP3PPP/R2QK1NR w KQkq -">Link</a> | Rapid |
@@ -219,8 +221,6 @@
 | **IslamovMuhammad** | Yololoboy | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kQ2/pppp1p1p/6p1/6q1/2B1P3/BPKP4/P4nPP/nN4NR b q -">Link</a> | Rapid |
 | askafii | **IslamovMuhammad** | checkmated ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p1bNp1p/p2p2p1/8/8/1PB3P1/P2P1PP1/2K4R b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | Blunder_Panda_Is_Here | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk4/p1p1Q3/2p5/3p2N1/5qn1/3P4/PPP2PPP/RN2R1K1 b - -">Link</a> | Rapid |
-| ANDREICAITLYN | **IslamovMuhammad** | checkmated ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p5/2r3p1/2PkP1N1/1P3K2/2P1N3/P5P1/R7 b - -">Link</a> | Rapid |
-| aiii87 | **IslamovMuhammad** | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p1p2p1p/1p1p2pb/3P4/1P2b3/P2P2q1/8/RN3RK1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
