@@ -211,6 +211,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | alumba | win 🥇 | 3/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/ppp1pppp/5n2/3N4/3n4/5N2/PPP2PPP/R1BQKB1R b KQkq -">Link</a> | Rapid |
 | **IslamovMuhammad** | Emeruiv | checkmated ❌ | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k1nr/p6p/2nb2p1/6P1/7P/1q5K/8/6q1 w k -">Link</a> | Rapid |
 | stefko01 | **IslamovMuhammad** | checkmated ❌ | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1r1pQk/1R5p/8/8/2B2P1P/PP4P1/7K b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | jaco197094 | checkmated ❌ | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/b7/5p2/4q1k1/2Kq4 w - -">Link</a> | Rapid |
@@ -220,7 +221,6 @@
 | **IslamovMuhammad** | showmedamoney0 | stalemate ⏸️ | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/5n1p/5k2/7K w - -">Link</a> | Rapid |
 | JonatahnHale | **IslamovMuhammad** | checkmated ❌ | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bQ1k1r/pp3pp1/8/4n2p/8/3P4/PPP2PPP/R3R1K1 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | supeace | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/2R5/1p3pkp/p5p1/P5P1/6nP/2P3P1/6K1 b - -">Link</a> | Rapid |
-| RexMundi | **IslamovMuhammad** | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p7/3p1pPp/2p5/r6P/2P3K1/4r3/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
