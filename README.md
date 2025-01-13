@@ -211,6 +211,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| vladimirstimoha | **IslamovMuhammad** | checkmated ❌ | 12/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4Q3/5K2/8/8/8/8/8 b - - 24 70">Link</a> | Rapid |
+| **IslamovMuhammad** | JnStLs | stalemate ⏸️ | 12/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/kp6/p7/K7/4rb2 w - - 2 71">Link</a> | Rapid |
 | **IslamovMuhammad** | Plxstxkschwxrt | resigned ❌ | 11/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/r2b3p/p2b4/2q5/3N4/2P2rP1/PP6/R3R1K1 w - - 0 30">Link</a> | Rapid |
 | Puerconiniio | **IslamovMuhammad** | win 🥇 | 9/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4q/6q1/5q2/3p4/8/7K/3p4/8 w - -">Link</a> | Rapid |
 | **IslamovMuhammad** | Neeraj479 | checkmated ❌ | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5p1p/6p1/p3n3/P5q1/7K/5P1P/R7 w - -">Link</a> | Rapid |
@@ -219,8 +221,6 @@
 | **IslamovMuhammad** | Shehabkabil | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/1pb3pp/p1p5/2P5/7P/1B2BPP1/4R2K b - -">Link</a> | Rapid |
 | TOPINAMBOU | **IslamovMuhammad** | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5R2/4K1k1/3B4/3q3q w - -">Link</a> | Rapid |
 | **IslamovMuhammad** | DavidiusMaximalius | checkmated ❌ | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp1R2p/6p1/P1P4n/8/5P1P/5nPK/7r w - -">Link</a> | Rapid |
-| Eder43210 | **IslamovMuhammad** | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp2p1p/3b2p1/4n3/8/2P4N/PP3PPP/R1B2RK1 b - -">Link</a> | Rapid |
-| siauschm | **IslamovMuhammad** | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q1r2k2/p2R1p1p/4n3/8/8/P7/1PbR1PPP/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
