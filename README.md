@@ -211,6 +211,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Limule_06 | **IslamovMuhammad** | checkmated ❌ | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6R/n1N3p1/7k/5Q2/4P3/P1q2PPP/6K1 b - - 0 36">Link</a> | Rapid |
+| **IslamovMuhammad** | Akshat_141 | abandoned  | 13/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5q2/6q1/3K4/7k/8/8 w - - 15 89">Link</a> | Rapid |
 | vladimirstimoha | **IslamovMuhammad** | checkmated ❌ | 12/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4Q3/5K2/8/8/8/8/8 b - - 24 70">Link</a> | Rapid |
 | **IslamovMuhammad** | JnStLs | stalemate ⏸️ | 12/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/kp6/p7/K7/4rb2 w - - 2 71">Link</a> | Rapid |
 | **IslamovMuhammad** | Plxstxkschwxrt | resigned ❌ | 11/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/r2b3p/p2b4/2q5/3N4/2P2rP1/PP6/R3R1K1 w - - 0 30">Link</a> | Rapid |
@@ -219,8 +221,6 @@
 | Terry47689 | **IslamovMuhammad** | agreed ⏸️ | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6K1/1r5p/8/8/kP5R/8/8 w - -">Link</a> | Rapid |
 | mohamedboukraia | **IslamovMuhammad** | checkmated ❌ | 6/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/p7/6R1/2p5/p6k/1P6/2P4P/7K b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | Shehabkabil | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/1pb3pp/p1p5/2P5/7P/1B2BPP1/4R2K b - -">Link</a> | Rapid |
-| TOPINAMBOU | **IslamovMuhammad** | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5R2/4K1k1/3B4/3q3q w - -">Link</a> | Rapid |
-| **IslamovMuhammad** | DavidiusMaximalius | checkmated ❌ | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp1R2p/6p1/P1P4n/8/5P1P/5nPK/7r w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
