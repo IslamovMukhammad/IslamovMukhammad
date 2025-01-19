@@ -211,6 +211,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| umsbulldog | **IslamovMuhammad** | resigned ❌ | 18/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2pB4/2P5/2Q5/5P2/6R1/4k1K1 b - - 0 46">Link</a> | Rapid |
+| **IslamovMuhammad** | Vigo99 | win 🥇 | 18/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k2/r2p1p1p/N2R4/1p1P4/8/2P3P1/PP3P1P/R5K1 b - - 0 25">Link</a> | Rapid |
 | **IslamovMuhammad** | Prakalp4538 | checkmated ❌ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3pk1/p5p1/8/2p3P1/3P1P2/P3rq1P/3R1K2 w - - 3 34">Link</a> | Rapid |
 | mohamedmaher1234 | **IslamovMuhammad** | checkmated ❌ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/5p1k/3N3p/P5pK/3B4/7P/2r4r/8 b - - 7 37">Link</a> | Rapid |
 | udayreddy5695 | **IslamovMuhammad** | insufficient ⏸️ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k7/8/8/3K4/8/8/8 w - - 0 59">Link</a> | Rapid |
@@ -219,8 +221,6 @@
 | ivatsi | **IslamovMuhammad** | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/5pk1/1p4p1/pP2K1P1/P1P4P/4r3/8/8 w - - 3 43">Link</a> | Rapid |
 | **IslamovMuhammad** | amiros88 | checkmated ❌ | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p4p1/p1b1p2p/3p4/3b4/2P5/PP4PP/RN3r1K w - - 0 18">Link</a> | Rapid |
 | **IslamovMuhammad** | andreabolla | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2N2/1ppqp2k/p2p1brp/3P3Q/2B1P3/2N4P/PPP2PP1/R3R1K1 b - - 4 21">Link</a> | Rapid |
-| **IslamovMuhammad** | zoeh888 | win 🥇 | 16/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1R1Q2bp/3p1pp1/2qPp3/2P1P3/8/3N1PPP/6K1 b - - 2 31">Link</a> | Rapid |
-| Rayeesbhat786 | **IslamovMuhammad** | stalemate ⏸️ | 15/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5Q1P/8/7K/8/8/8/8 b - - 0 80">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
