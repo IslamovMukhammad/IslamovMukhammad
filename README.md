@@ -211,6 +211,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Monamour13 | **IslamovMuhammad** | resigned ❌ | 11/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/Nk6/7Q/8 b - - 0 50">Link</a> | Rapid |
 | **IslamovMuhammad** | AungKhant1 | checkmated ❌ | 10/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/5pk1/1P6/6b1/6P1/8/2Pq4/3K4 w - - 6 41">Link</a> | Rapid |
 | EZEREZE29 | **IslamovMuhammad** | win 🥇 | 9/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/5Bp1/6pp/2p2r2/3n1K2/6P1/3R4 w - - 2 37">Link</a> | Rapid |
 | alexndlc | **IslamovMuhammad** | checkmated ❌ | 6/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1Qk1/p7/5p2/4q2p/4B3/6PP/5P1K/8 b - - 0 42">Link</a> | Rapid |
@@ -220,7 +221,6 @@
 | Le-xx1 | **IslamovMuhammad** | win 🥇 | 5/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/8/R7/8/3nr2P/5rK1 w - - 6 33">Link</a> | Rapid |
 | Zabou13 | **IslamovMuhammad** | win 🥇 | 4/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5k2/3p2p1/4q3/3K4/8 w - - 2 53">Link</a> | Rapid |
 | JavierGarcia87 | **IslamovMuhammad** | checkmated ❌ | 29/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/8/8/4R3/2R5/1B1k2K1/1P6/8 b - - 2 47">Link</a> | Rapid |
-| **IslamovMuhammad** | S-Mahan | win 🥇 | 29/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pp3ppp/3Q4/4p3/2R1P3/5N2/PP3PPP/4K3 b - - 0 18">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
