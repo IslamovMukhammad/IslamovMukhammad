@@ -211,6 +211,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| bhaskarcool | **IslamovMuhammad** | abandoned  | 16/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/4Brp1/B4p1p/8/1Pp5/2P5/P4PPP/R3R1K1 b - -">Link</a> | Rapid |
+| EMZF | **IslamovMuhammad** | checkmated ❌ | 16/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1Q1k1/pp3ppp/8/8/5b2/2N4P/PPP3P1/3K1B1R b - -">Link</a> | Rapid |
+| **IslamovMuhammad** | MarkDownUnder | checkmated ❌ | 16/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1p6/8/8/5p2/3n4/2p3q1/2K5 w - -">Link</a> | Rapid |
 | **IslamovMuhammad** | suttpdenher | win 🥇 | 15/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4pk2/5pp1/Q7/5P2/5P1P/2R3K1 b - -">Link</a> | Rapid |
 | **IslamovMuhammad** | GuyNamedDave | win 🥇 | 15/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1bk3r/p1np1Npp/p1p5/8/8/8/PPP2PPP/3RR1K1 b - -">Link</a> | Rapid |
 | Monamour13 | **IslamovMuhammad** | resigned ❌ | 11/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/Nk6/7Q/8 b - - 0 50">Link</a> | Rapid |
@@ -218,9 +221,6 @@
 | EZEREZE29 | **IslamovMuhammad** | win 🥇 | 9/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/5Bp1/6pp/2p2r2/3n1K2/6P1/3R4 w - - 2 37">Link</a> | Rapid |
 | alexndlc | **IslamovMuhammad** | checkmated ❌ | 6/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1Qk1/p7/5p2/4q2p/4B3/6PP/5P1K/8 b - - 0 42">Link</a> | Rapid |
 | **IslamovMuhammad** | kubera135 | stalemate ⏸️ | 6/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1n6/1P6/8/8/6k1/7p/7K w - - 2 56">Link</a> | Rapid |
-| kubera135 | **IslamovMuhammad** | resigned ❌ | 6/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/1p3p1p/Q7/p2P4/2P5/P1P2PPP/6K1 w - - 0 22">Link</a> | Rapid |
-| **IslamovMuhammad** | PabloAnka | win 🥇 | 5/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2R5/3pk3/1P3n2/2P5/PN3KP1/8 b - - 0 42">Link</a> | Rapid |
-| Le-xx1 | **IslamovMuhammad** | win 🥇 | 5/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/8/R7/8/3nr2P/5rK1 w - - 6 33">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
