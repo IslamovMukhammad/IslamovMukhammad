@@ -211,6 +211,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Lugzy14 | **IslamovMuhammad** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1N/ppp1q1pp/2np1n2/4p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQq -">Link</a> | Bullet |
+| **IslamovMuhammad** | Salethe | abandoned  | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp2ppp/1n1p4/3Pp2B/4n3/2P5/PBP2PPP/1R1Q1RK1 w - -">Link</a> | Blitz |
+| smokeystu | **IslamovMuhammad** | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1bp3p1/p6p/8/4N1r1/2P5/PP4PP/4R2K w - -">Link</a> | Blitz |
 | **IslamovMuhammad** | magnsol1 | timeout ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/4bp2/p1ppbqk1/6P1/P3P3/8/P1P5/2BQ2K1 w - -">Link</a> | Bullet |
 | **IslamovMuhammad** | SpoconySzachMat | timeout ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1b1r/8/p2p4/1p1Ppbp1/7p/8/PP2BPPP/Q5K1 w - -">Link</a> | Bullet |
 | **IslamovMuhammad** | jaforsadek28 | win 🥇 | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6R/2p3p1/3nR1Pk/5P2/2P4P/P1P5/6K1 b - -">Link</a> | Bullet |
@@ -218,9 +221,6 @@
 | duarteescairo | **IslamovMuhammad** | timeout ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/p1pn3p/2N2p2/3p4/7B/2N2PP1/PPP4P/R2QK2R b KQkq -">Link</a> | Bullet |
 | TorbenOxe | **IslamovMuhammad** | checkmated ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2Q1p/2n3p1/3Bp3/6p1/3P4/PPP2PPP/RNB1K2R b KQkq -">Link</a> | Bullet |
 | **IslamovMuhammad** | Bud_tendy | win 🥇 | 6/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/8/8/8/3K4/2R5/4r3/8 b - -">Link</a> | Bullet |
-| **IslamovMuhammad** | joegumbo | win 🥇 | 6/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/ppk4p/2p4B/8/6p1/8/PPP2PP1/R5K1 b - -">Link</a> | Bullet |
-| **IslamovMuhammad** | DerfMG | stalemate ⏸️ | 6/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/3Q4/2R5/1K2k3 b - -">Link</a> | Bullet |
-| Tyer54YT | **IslamovMuhammad** | checkmated ❌ | 6/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pQp/2n3p1/8/3B4/2P4P/q5P1/2R3K1 b - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
