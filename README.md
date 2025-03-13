@@ -211,16 +211,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **IslamovMuhammad** | Youssefg701 | timeout ❌ | 10/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pppk2p1/4p3/7b/1P3B2/2PP4/1P5P/5RK1 w - -">Link</a> | Bullet |
-| **IslamovMuhammad** | lyon7409 | resigned ❌ | 10/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/1p5p/1K6/p5q1/4p3/7R/7P/8 w - -">Link</a> | Rapid |
-| aakm2760 | **IslamovMuhammad** | win 🥇 | 10/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/1p3pkp/p1b3p1/8/3p4/3B2PP/P1P2P1K/7q w - -">Link</a> | Rapid |
-| Lugzy14 | **IslamovMuhammad** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1N/ppp1q1pp/2np1n2/4p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQq -">Link</a> | Bullet |
-| **IslamovMuhammad** | Salethe | abandoned  | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/ppp2ppp/1n1p4/3Pp2B/4n3/2P5/PBP2PPP/1R1Q1RK1 w - -">Link</a> | Blitz |
-| smokeystu | **IslamovMuhammad** | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1bp3p1/p6p/8/4N1r1/2P5/PP4PP/4R2K w - -">Link</a> | Blitz |
-| **IslamovMuhammad** | magnsol1 | timeout ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/4bp2/p1ppbqk1/6P1/P3P3/8/P1P5/2BQ2K1 w - -">Link</a> | Bullet |
-| **IslamovMuhammad** | SpoconySzachMat | timeout ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k1b1r/8/p2p4/1p1Ppbp1/7p/8/PP2BPPP/Q5K1 w - -">Link</a> | Bullet |
-| **IslamovMuhammad** | jaforsadek28 | win 🥇 | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6R/2p3p1/3nR1Pk/5P2/2P4P/P1P5/6K1 b - -">Link</a> | Bullet |
-| yArrogant | **IslamovMuhammad** | win 🥇 | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4q1k1/5pp1/p2b3p/5b2/8/2N5/PPP2PPP/3RQ1K1 w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | sudini99 | resigned ❌ | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp5p/2p2pb1/2P5/r7/5R2/5P1P/5K2 w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | Danmasterchief | checkmated ❌ | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pk6/8/3p4/2P5/7P/PP4Pb/R2Q1nqK w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | Jaime126 | win 🥇 | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k4/3p4/p1pPr2p/1p6/1P2N1B1/P4P2/5K2 b - -">Link</a> | Bullet |
+| Cirius97 | **IslamovMuhammad** | checkmated ❌ | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1ppq1ppQ/p1n1b3/1B1n2N1/8/8/PPP2PPP/RN3RK1 b - -">Link</a> | Bullet |
+| **IslamovMuhammad** | ASHBORNNNNNN1 | win 🥇 | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r3/2k3pp/1pNp4/1B3pb1/1B6/3R1K2/PPP2P1P/8 b - -">Link</a> | Bullet |
+| TheSnehil | **IslamovMuhammad** | abandoned  | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/p1p2ppp/2p5/2Q5/4p3/2P3P1/PP2PP1P/RNB2RK1 b - -">Link</a> | Bullet |
+| DmitryCh42 | **IslamovMuhammad** | timeout ❌ | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp3ppp/8/1N2p3/1P2R3/P2r2P1/7P/5RK1 b - -">Link</a> | Bullet |
+| **IslamovMuhammad** | ArmXoniX | win 🥇 | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kr3/p7/3R4/3Nn3/8/8/PPP2P1P/2KR4 b - -">Link</a> | Bullet |
+| Sheykyy | **IslamovMuhammad** | win 🥇 | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1k/6pp/p1q5/P7/5P2/2r3PP/5K2 w - -">Link</a> | Bullet |
+| **IslamovMuhammad** | SaitamG033 | checkmated ❌ | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k3q1/4K3/2r1q3/8/8/8 w - -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
