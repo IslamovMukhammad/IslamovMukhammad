@@ -211,6 +211,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| tratapupa | **IslamovMuhammad** | resigned ❌ | 13/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/p2p1p1p/2pN2p1/1p6/4P3/1BQP4/P4PPP/4K2R b K - 2 23">Link</a> | Rapid |
+| Incrediblewor | **IslamovMuhammad** | win 🥇 | 13/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/ppq1k2p/6p1/3r1p2/4p3/7P/P1P2PP1/4QRK1 w - - 0 26">Link</a> | Rapid |
+| **IslamovMuhammad** | ZeyrrO | win 🥇 | 13/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R4k1/5pp1/r3r2p/P1P1Pb2/1P1P4/5P2/5K1R b - - 4 34">Link</a> | Rapid |
 | Nobody1360 | **IslamovMuhammad** | timeout ❌ | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R7/5r2/2rp3R/4kP2/6PK/7P/8 b - - 0 34">Link</a> | Bullet |
 | **IslamovMuhammad** | TessTKull | win 🥇 | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/1pp3bk/p4p1p/P2Pp1p1/2p1n3/3R2BP/4BPP1/2R3K1 b - - 0 34">Link</a> | Bullet |
 | rudraksh_w | **IslamovMuhammad** | checkmated ❌ | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1pp1bpQ1/p1n2n1B/4p3/2B5/2NP3P/PPP2PP1/R3R1K1 b - - 0 13">Link</a> | Bullet |
@@ -218,9 +221,6 @@
 | **IslamovMuhammad** | MuffinManV2 | checkmated ❌ | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q2nr/5k1p/2qb2p1/3b1p2/3P4/1K6/1P1BrP1P/8 w - - 6 28">Link</a> | Bullet |
 | **IslamovMuhammad** | Exagorazo28 | checkmated ❌ | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/8/4P3/2B2n2/2P5/P1P2PqP/R2QR1K1 w kq - 0 13">Link</a> | Bullet |
 | atesbaz-12 | **IslamovMuhammad** | win 🥇 | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/p1pp1ppp/1p6/2b5/4PPn1/2NQ4/PPP3PP/R1B1KB1R w KQkq - 3 9">Link</a> | Bullet |
-| JayNugget1 | **IslamovMuhammad** | checkmated ❌ | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1Q3/ppp4p/3p2p1/3P4/2P5/8/nP4PP/4RRK1 b - - 2 25">Link</a> | Bullet |
-| **IslamovMuhammad** | siles66 | win 🥇 | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bkr/7p/5Qp1/4Pn2/2Bp4/8/PP3PPP/R1B2RK1 b - - 4 25">Link</a> | Bullet |
-| Goughmyster | **IslamovMuhammad** | checkmated ❌ | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p3Q1/1p2bp1p/p1q5/8/2P1P1R1/PP4PP/3N2K1 b - - 0 26">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
