@@ -217,7 +217,7 @@
 | mafin01 | **IslamovMuhammad** | checkmated ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nkr4/pbppN3/1p6/8/3qP3/1Q3P2/P3B1PP/5KNR b - - 8 23">Link</a> | Blitz |
 | **IslamovMuhammad** | ManolisKalokeris | win 🥇 | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6pk/1P5p/4Q3/6P1/5P1P/6K1 b - - 0 38">Link</a> | Blitz |
 | Dellllon | **IslamovMuhammad** | resigned ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2r2/p3kP2/2pR2Np/2p2p2/5B2/2P3PP/PP3P2/4R1K1 b - - 2 26">Link</a> | Blitz |
-| donaldthedestroyer | **IslamovMuhammad** | checkmated ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5KQk/8/5P1p/7B/8 b - - 2 60">Link</a> | Blitz |
+| 6million_cookies | **IslamovMuhammad** | checkmated ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5KQk/8/5P1p/7B/8 b - - 2 60">Link</a> | Blitz |
 | RudolfK97 | **IslamovMuhammad** | resigned ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/5ppk/1B5p/P7/8/1P1n3P/6P1/7K b - - 0 29">Link</a> | Blitz |
 | **IslamovMuhammad** | 2dieu | checkmated ❌ | 29/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/6pp/1P3p1k/6n1/5K2/2P3P1/4qq2 w - - 0 56">Link</a> | Blitz |
 | **IslamovMuhammad** | AritryaBiswas_02 | timeout ❌ | 29/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/1Pk5/8/8/8/5pPK/1r3P1P/8 w - - 1 46">Link</a> | Blitz |
