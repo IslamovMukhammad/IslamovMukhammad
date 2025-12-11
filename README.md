@@ -18,21 +18,21 @@
  <summary><h2> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/academics.gif"  width="29"/> Academics</h4></summary>
 
   <span><img src="https://img.shields.io/badge/BSE-SAMTUIT_SE'23-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-4.0/5.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/experience.gif"  width="29"/> Experience</h4></summary>
 
 - **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
 
 </details>
   
 <details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h4></summary>
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/muhammadislamov)
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/muhammadislamov)
@@ -43,7 +43,7 @@
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h4></summary>
 
   #### Languages
    
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/projects.gif"  width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/IslamovMukhammad/rm-whatsapp-bot">RMNotices</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
@@ -90,17 +90,9 @@
   ### Leetcode
   <div align="center">
   <a href="https://leetcode.com/Muhammadislamov">
-  <img height="316" src="https://leetcard.jacoblin.cool/binarysolver?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/binarysolver/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Muhammad Islamov Leetcode Stats"/>
+  <img height="316" src="https://leetcard.jacoblin.cool/Muhammadislamov?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/Muhammadislamov/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Muhammad Islamov Leetcode Stats"/>
   </a>
  </div>
-
-
-  ### Codeforces
-  <div align="center">
-    <a href="https://codeforces.com/profile/Muhammadislamov">
-      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=binarysolver&theme=github_dark&force_username=true&border_color=404040" alt="Muhammad Islamov Codeforces Stats"/>
-    </a>
-  </div>
   
   ### GitHub
   <div align="center">
@@ -136,7 +128,7 @@
 ---
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/chessg.gif"  width="29"/> Chess.com</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/chessg.gif"  width="29"/> Chess.com</h2></summary>
 
 <div>
 
@@ -174,7 +166,7 @@
 ---
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/music.gif"  width="29"/> Spotify </h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/music.gif"  width="29"/> Spotify </h2></summary>
 
   <div>
 <h1>
@@ -200,7 +192,7 @@
 ---
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/youtube.gif"  width="29"/> YouTube </h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/youtube.gif"  width="29"/> YouTube </h2></summary>
 <div>
   <table>
   <tr>
@@ -236,39 +228,15 @@
 
 ---
 
-## <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
-
+<details>
+<summary><h2> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Contact.gif"  width="37"/> Contact Me</h2></summary>
 <p> 
  <i>You can reach out to me via</i> 
-&nbsp;<a href="mailto:contact.IslamovMukhammad@gmail.com">
+&nbsp;<a href="mailto:contact.mukhammadmnnm1@gmail.com">
      <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
-
-
----
-
-### 💻 Пройденные курсы: [Courses completed]
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| online.pdp.uz/ Старт в программировании iOS                     | 07/2020 - 07/2021 |
-| udemy.com/The Complete iOS App Development Bootcamp             | 07/2021 - 07/2022 |
-| youtube.com/@SwiftfulThinking Swift UI Bootcam                  | 05/2022 - 08/2022 |
-| youtube.com/@iOSAcademy SwiftUI: Tutorials & Walkthroughs       | 07/2022 - xx/2023 |
-| skillbox.ru/Профессия iOS-разработчик                           | 10/2022 - xx/2023 |
-.
-
----
-
-## My contribution graph ))
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamovMukhammad/IslamovMukhammad/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
+</details>
 
 
 <p align="center">
