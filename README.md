@@ -135,11 +135,6 @@
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
-| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
-|:---:|:---:|:---:|:---:|
-| Current | 1011 | 537 | 516 |
-| Best | 798 | 551 | 525 |
-
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **IslamovMuhammad** | RBATTZ1126 | timeout ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p3rbp/p2pq1p1/P3p3/1P1nP3/5PBP/3Q2P1/2RR2K1 w - - 2 30">Link</a> | Bullet |
