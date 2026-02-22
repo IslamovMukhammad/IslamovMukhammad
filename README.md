@@ -27,7 +27,7 @@
  <details>
   <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/experience.gif"  width="29"/> Experience</h4></summary>
 
-- **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
+
 
 </details>
   
@@ -72,11 +72,7 @@
 <details>
   <summary><h4> <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/projects.gif"  width="29"/> Projects</h4></summary>
 
-  #### <a href="https://github.com/IslamovMukhammad/rm-whatsapp-bot">RMNotices</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
-  - Implemented instant job alerts to notify users about new job opportunities, along with a **1-hour** reminder before the deadline for better organization and timely application submission. 
-  - Accomplished a significant milestone of **500** daily users for RMNotices, surpassing initial projections aimed to add an extra **2,000** individuals to maximize user base potential. 
-  - **Impact:** Maximized productivity by automating the notification process, eliminating manual monitoring and alerts, resulting in a **20%** reduction in Placement Coordinator’s workload.
+  
 
 </details>
 
@@ -114,11 +110,8 @@
   <a href="https://github.com/IslamovMukhammad">
     <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Github.gif" width="70"/>
   </a>
-  <a href="https://linkedin.com/in/IslamovMukhammad07">
+  <a href="https://www.linkedin.com/in/muhammad-islamov-45783b22b/">
     <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Linkedin.gif" width="70"/>
-  </a>
-  <a href="https://www.quora.com/profile/Parth-Johri-6">
-    <img align="center" src="https://github.com/IslamovMukhammad/IslamovMukhammad/blob/readME/icons/Quora.gif" width="70"/>
   </a>
 </div>
 
