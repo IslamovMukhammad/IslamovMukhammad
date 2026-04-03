@@ -137,6 +137,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Krobbi42 | **IslamovMuhammad** | win 🥇 | 2/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1b4pp/p3np2/2Pp4/3P1PQ1/2Bq2PP/P6K/2R5 w - - 0 32">Link</a> | Blitz |
 | **IslamovMuhammad** | RBATTZ1126 | timeout ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p3rbp/p2pq1p1/P3p3/1P1nP3/5PBP/3Q2P1/2RR2K1 w - - 2 30">Link</a> | Bullet |
 | **IslamovMuhammad** | negative-skew | win 🥇 | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp1q1pp1/7p/8/P2r4/1P2Q1Pn/2P2PK1/R3R3 b - - 1 27">Link</a> | Bullet |
 | **IslamovMuhammad** | monstereugene07 | timeout ❌ | 9/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4qp2/4p3/7p/6nP/8/2Q2P2/6K1 w - - 0 40">Link</a> | Bullet |
@@ -146,7 +147,6 @@
 | 6million_cookies | **IslamovMuhammad** | checkmated ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5KQk/8/5P1p/7B/8 b - - 2 60">Link</a> | Blitz |
 | RudolfK97 | **IslamovMuhammad** | resigned ❌ | 27/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/5ppk/1B5p/P7/8/1P1n3P/6P1/7K b - - 0 29">Link</a> | Blitz |
 | **IslamovMuhammad** | 2dieu | checkmated ❌ | 29/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/8/6pp/1P3p1k/6n1/5K2/2P3P1/4qq2 w - - 0 56">Link</a> | Blitz |
-| **IslamovMuhammad** | AritryaBiswas_02 | timeout ❌ | 29/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/1Pk5/8/8/8/5pPK/1r3P1P/8 w - - 1 46">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
