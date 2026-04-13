@@ -137,16 +137,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| jackrinella | **IslamovMuhammad** | checkmated ❌ | 13/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5K1k/8/7Q/8 b - - 0 64">Link</a> | Blitz |
+| **IslamovMuhammad** | zzareyanofficial | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N4/p4pkp/5rp1/4Q1P1/8/1P5P/P1P5/2K5 b - - 0 30">Link</a> | Blitz |
+| **IslamovMuhammad** | Anshuthakurjhs | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6p1/8/Q4R2/P3k3/1PP5/1K6 b - - 0 48">Link</a> | Blitz |
+| Xenon-T97 | **IslamovMuhammad** | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5ppp/p2np3/qp1p4/3P4/p3PB1P/2P2PP1/R4RK1 w - - 0 20">Link</a> | Blitz |
+| **IslamovMuhammad** | dsrsrinivas | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p1pp1p1p/b2kqNp1/2p1p1B1/4P3/2QP4/P4PPP/5RK1 b - - 0 24">Link</a> | Blitz |
+| indiansujal | **IslamovMuhammad** | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b1r/pbp2ppp/2p5/8/4P3/5N2/PPP2PPP/R1Br2K1 w - - 0 13">Link</a> | Blitz |
+| **IslamovMuhammad** | moimiikka | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/pp3k2/2p5/8/7P/P4r2/1PPK4/8 b - - 2 37">Link</a> | Blitz |
 | **IslamovMuhammad** | bigjessie | win 🥇 | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6P1/8/k7/7K/Q7/1R3P2/8 b - - 0 67">Link</a> | Blitz |
 | **IslamovMuhammad** | ar092 | win 🥇 | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5r1/5p2/3kp3/1Bp5/2P3P1/5PK1/2Pr4/R5R1 b - - 2 36">Link</a> | Blitz |
 | Dimwitt321 | **IslamovMuhammad** | timeout ❌ | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/7Q/1k2p3/4R1P1/3P4/2P5/8/2K5 b - - 2 42">Link</a> | Blitz |
-| **IslamovMuhammad** | sukh117 | checkmated ❌ | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1b3R/p2p4/3Pp1b1/4P1k1/P7/5q1R/1r1K4 w - - 4 41">Link</a> | Blitz |
-| MathComeNCavAll | **IslamovMuhammad** | checkmated ❌ | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/ppp2Qpp/1b1p4/3Bp3/1P1nP3/P6P/1BPP1PP1/R3K2R b KQkq - 0 12">Link</a> | Blitz |
-| Klaud2026 | **IslamovMuhammad** | win 🥇 | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/pppN2pp/5p2/3P4/2P5/P4R2/1B1Pn2P/R2Q1Kq1 w - - 4 19">Link</a> | Blitz |
-| MathieuRazafimehefa | **IslamovMuhammad** | timeout ❌ | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1rk/2p2p1p/8/1p4q1/pP6/P2P3P/N1P5/R5QK b - - 6 32">Link</a> | Blitz |
-| **IslamovMuhammad** | niguelakiraj | win 🥇 | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/pQ4p1/6pp/8/2P1r3/7P/PP3PP1/3R2K1 b - - 0 24">Link</a> | Blitz |
-| **IslamovMuhammad** | stasik2013 | resigned ❌ | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr1k1/1pp2pp1/p3p2p/P1B5/1Pn1p1P1/2P4P/5P2/R4RK1 w - - 0 25">Link</a> | Blitz |
-| tuanhhhhhapqj | **IslamovMuhammad** | win 🥇 | 11/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1q3/ppp2kpp/3b4/8/8/8/PPPPB1PP/RNB1K2R b KQ - 1 10">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
