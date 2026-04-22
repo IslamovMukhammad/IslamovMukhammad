@@ -137,6 +137,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | Elmulo5 | checkmated ❌ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3K2r1/q7/8/7b/8/3k3p/8/8 w - - 14 103">Link</a> | Blitz |
 | nydelie | **IslamovMuhammad** | win 🥇 | 20/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5r1k/6pp/8/P7/1Q4q1/KP4P1/8 b - - 1 39">Link</a> | Blitz |
 | kaisar-lawi | **IslamovMuhammad** | checkmated ❌ | 20/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5pp1/7k/5QP1/5R1K/8 b - - 0 51">Link</a> | Blitz |
 | **IslamovMuhammad** | Siisq | resigned ❌ | 20/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/8/1p1k4/1Pr5/1K6/4b3/8 w - - 4 53">Link</a> | Blitz |
@@ -146,7 +147,6 @@
 | Bansal84 | **IslamovMuhammad** | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/p1N2ppp/4b3/1p2p3/3nP3/P2PKP1P/1q4P1/2RQ1B1R w - - 0 18">Link</a> | Blitz |
 | **IslamovMuhammad** | EspenHau | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7R/1P1pPk2/3P4/5K2/8 b - - 0 47">Link</a> | Blitz |
 | sardor991 | **IslamovMuhammad** | win 🥇 | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq e6 0 2">Link</a> | Daily |
-| AlexDuke87 | **IslamovMuhammad** | checkmated ❌ | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1qr3k/2p4p/p6N/1p2Q1p1/8/1PP3PP/2P3K1/R3R3 b - - 10 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
