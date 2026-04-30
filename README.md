@@ -137,6 +137,8 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | thebuster94 | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Q2k3/8/3K4/8/8/8/8 b - - 10 66">Link</a> | Blitz |
+| Jayeshwc | **IslamovMuhammad** | win 🥇 | 29/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k1p/1p1p4/2r5/3p2q1/8/KPB4P/8 w - - 0 43">Link</a> | Blitz |
 | **IslamovMuhammad** | Elmulo5 | checkmated ❌ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3K2r1/q7/8/7b/8/3k3p/8/8 w - - 14 103">Link</a> | Blitz |
 | nydelie | **IslamovMuhammad** | win 🥇 | 20/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5r1k/6pp/8/P7/1Q4q1/KP4P1/8 b - - 1 39">Link</a> | Blitz |
 | kaisar-lawi | **IslamovMuhammad** | checkmated ❌ | 20/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5pp1/7k/5QP1/5R1K/8 b - - 0 51">Link</a> | Blitz |
@@ -145,8 +147,6 @@
 | **IslamovMuhammad** | sevanyalionel | win 🥇 | 20/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr1k1/pp3ppp/4p3/2Ppn3/1P6/2P5/P2N1PPP/R2Q1RK1 b - - 3 15">Link</a> | Blitz |
 | **IslamovMuhammad** | hdwallen | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/4P3/1p6/1Kp1kP2/6PP/8/8 b - - 0 38">Link</a> | Blitz |
 | Bansal84 | **IslamovMuhammad** | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/p1N2ppp/4b3/1p2p3/3nP3/P2PKP1P/1q4P1/2RQ1B1R w - - 0 18">Link</a> | Blitz |
-| **IslamovMuhammad** | EspenHau | win 🥇 | 18/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7R/1P1pPk2/3P4/5K2/8 b - - 0 47">Link</a> | Blitz |
-| sardor991 | **IslamovMuhammad** | win 🥇 | 17/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq e6 0 2">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
