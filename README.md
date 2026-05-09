@@ -137,16 +137,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | Daniel_qds | abandoned  | 8/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p2pp1/p1P4p/P3P3/1r6/6P1/5P1P/3b2K1 w - - 0 27">Link</a> | Bullet |
+| **IslamovMuhammad** | ImBatman542 | checkmated ❌ | 8/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2pk3p/1p2p3/2p1K2P/3r1qP1/8/8/8 w - - 6 43">Link</a> | Bullet |
+| **IslamovMuhammad** | Asim_Munir1 | timeout ❌ | 8/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2kr3/p2b3p/7N/2p3p1/8/2P1Q1PP/P4P2/3R1RK1 w - - 5 35">Link</a> | Bullet |
+| AikAV2024 | **IslamovMuhammad** | checkmated ❌ | 8/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/2p2Q1k/3p2pp/r2P4/p7/P7/1P3PPP/6K1 b - - 0 28">Link</a> | Bullet |
 | arjunabayu9 | **IslamovMuhammad** | win 🥇 | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/p4p2/2pb1npp/3p2Q1/4p3/N1P1P2P/PP1P1PP1/R1B1K1NR w KQkq - 0 10">Link</a> | Bullet |
 | Trpl_six | **IslamovMuhammad** | win 🥇 | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3K4/2Pq2p1/3k1p1p/5P2/8/8/8/8 w - - 6 63">Link</a> | Bullet |
 | **IslamovMuhammad** | etchelawdan | timeout ❌ | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/pppkn2p/4p1p1/3pR1N1/8/3P4/PP3PPP/R5K1 w - - 1 19">Link</a> | Bullet |
 | **IslamovMuhammad** | dom776 | win 🥇 | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1r3k1/5ppp/p2bp3/1p1pn2P/8/1Q4P1/PP2NP2/5R1K b - - 1 25">Link</a> | Bullet |
 | M-Siyou | **IslamovMuhammad** | checkmated ❌ | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1R6/1PQ2k2/5p2/1P3K2/5N2 b - - 2 49">Link</a> | Bullet |
 | **IslamovMuhammad** | Traninhung | timeout ❌ | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/6R1/4kp1p/R5p1/1p4n1/1P2K1B1/P6P/8 w - - 2 38">Link</a> | Bullet |
-| arunkuttyz | **IslamovMuhammad** | win 🥇 | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/pp3p1p/3n2p1/2p3qb/2Pp4/1B6/P1P2PPP/R1B2RK1 w - - 0 19">Link</a> | Bullet |
-| Dragoncillo_azul | **IslamovMuhammad** | timeout ❌ | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/pppR1Qp1/7p/8/8/4B3/P1q1BPPP/5RK1 b - - 0 19">Link</a> | Bullet |
-| **IslamovMuhammad** | rolextravis | win 🥇 | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/2q2p1p/2p1pQp1/1p2nk2/p3N3/1B3P2/PPP3PP/R4RK1 b - - 1 21">Link</a> | Bullet |
-| **IslamovMuhammad** | md-lost | win 🥇 | 7/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1rk1/pp2bppQ/3p4/2p1P1B1/6n1/2NB4/PPP2PPP/2KR3R b - - 0 12">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
