@@ -137,6 +137,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Francisrabino | **IslamovMuhammad** | resigned ❌ | 10/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/2KN4/k7/8/8/8/8 b - - 2 69">Link</a> | Blitz |
 | **IslamovMuhammad** | justpassssinby | win 🥇 | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pppppppp/2n5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2">Link</a> | Blitz |
 | **IslamovMuhammad** | Skytis1 | checkmated ❌ | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/bQ3p2/2p5/8/1P5P/P1P3rr/R5K1 w - - 4 30">Link</a> | Blitz |
 | MirkoS79 | **IslamovMuhammad** | resigned ❌ | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/Q1pb1p2/2ppqb2/pP2p1p1/P3P2p/2PP3P/4NPP1/RN3RK1 b - - 1 21">Link</a> | Blitz |
@@ -146,7 +147,6 @@
 | firauka | **IslamovMuhammad** | checkmated ❌ | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/p2pk2p/1pp3Bp/4Q3/8/8/PPP2PPP/RN2K2R b KQ - 0 13">Link</a> | Blitz |
 | **IslamovMuhammad** | DEWA_PETIRZEUS | win 🥇 | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kbr1/2Q2p2/p1Bp4/1p4pp/8/2P1B3/P1P2PK1/R4R2 b - - 3 24">Link</a> | Blitz |
 | kokoK3CiL | **IslamovMuhammad** | checkmated ❌ | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/5p2/kp1q3p/p1n3p1/P3B3/6PP/5P2/5R1K b - - 2 35">Link</a> | Blitz |
-| IMU-SAM4 | **IslamovMuhammad** | win 🥇 | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq d6 0 5">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
