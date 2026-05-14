@@ -137,16 +137,16 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| JLSVLSGDLP | **IslamovMuhammad** | checkmated ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4rk/pq3p2/3p4/1pp1P1Q1/7R/2N5/PPP3P1/3R2K1 b - - 4 29">Link</a> | Blitz |
+| **IslamovMuhammad** | Philmons82 | resigned ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1bk2p/p7/1p1pPrq1/1P1n4/P7/2P4P/1KQ5 w - - 0 26">Link</a> | Blitz |
+| cbc199 | **IslamovMuhammad** | win 🥇 | 13/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2ppp/3b2n1/3q4/3P4/4B3/PPP2PPP/R4RK1 w - - 0 15">Link</a> | Blitz |
+| **IslamovMuhammad** | nemaiyaa | win 🥇 | 13/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p1n1p1/1pp2p1p/3q1b2/2B5/1PQ5/PBP2PPP/R4RK1 b - - 7 18">Link</a> | Blitz |
 | solder66 | **IslamovMuhammad** | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/1pp2pbp/p4np1/8/2N5/5nPP/PP3PB1/R1B2RK1 w - - 0 15">Link</a> | Blitz |
 | **IslamovMuhammad** | Coach-Nadia | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R6/kQ6/3p4/3B4/1P1P4/6PP/6K1 b - - 1 36">Link</a> | Daily |
 | **IslamovMuhammad** | Seabass_10_10 | repetition ⏸️ | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/8/8/8/5kp1/5r2/6K1/8 b - - 21 75">Link</a> | Blitz |
 | TwintKool | **IslamovMuhammad** | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Rnr2/2p2pk1/2b1R3/p1r3p1/P1P5/1PN2P2/2B3P1/6K1 b - - 1 31">Link</a> | Blitz |
 | **IslamovMuhammad** | anshu_sondhiya | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k1Q/ppp1rpp1/6B1/3pn1N1/8/B1n5/P1P2PPP/R4RK1 b - - 10 16">Link</a> | Blitz |
 | Pawnstar7268 | **IslamovMuhammad** | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p4p/p5pQ/2p4P/6P1/P3q2K/8/8 w - - 1 40">Link</a> | Blitz |
-| **IslamovMuhammad** | SpursTottenham | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r2pp/1p6/3Pp3/P7/5P2/6PP/R2R2K1 b - - 2 29">Link</a> | Blitz |
-| **IslamovMuhammad** | i-want-to-win-magnus-carl | resigned ❌ | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/p4ppp/b1p1p3/2bp4/8/8/P2B1PPP/q2QK2R b Kkq - 1 17">Link</a> | Blitz |
-| willabeefishface | **IslamovMuhammad** | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3r1p2/3Nn1p1/8/p5PQ/8/PPP5/2K2R2 w - - 6 34">Link</a> | Blitz |
-| **IslamovMuhammad** | P4KNG4H | win 🥇 | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk5r/p2N2pp/B1p1p3/B2n4/8/P7/1PP2PPP/2KR4 b - - 1 20">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
