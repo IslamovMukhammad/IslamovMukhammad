@@ -137,6 +137,9 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| yosidolfi | **IslamovMuhammad** | timeout ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/ppp2pp1/2n1B2p/8/3p1B2/8/PPP2PPP/RN2R1K1 b - - 0 16">Link</a> | Blitz |
+| **IslamovMuhammad** | Fums81 | timeout ❌ | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5p1p/6p1/Q1PR4/P5B1/7P/5KP1/8 w - - 1 41">Link</a> | Blitz |
+| DK-FIGHTER | **IslamovMuhammad** | win 🥇 | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/6p1/4p2p/1p3q2/3Q2KP/5r2/3R4 w - - 2 37">Link</a> | Blitz |
 | **IslamovMuhammad** | HasBakan79 | checkmated ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/6p1/1B4K1/5PP1/5n2/8/8 w - - 1 52">Link</a> | Blitz |
 | Call_me_M0 | **IslamovMuhammad** | resigned ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1k/p5pp/1qp5/2N5/3Q3P/P2R1PP1/6K1 w - - 0 33">Link</a> | Blitz |
 | Mysteriou_184 | **IslamovMuhammad** | checkmated ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/5P2/4BK2/5QPP/1q3k2 b - - 4 57">Link</a> | Blitz |
@@ -144,9 +147,6 @@
 | **IslamovMuhammad** | 321fe | win 🥇 | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2pp1/3p1n1p/8/2BQP3/2N5/PPP2PPP/R1B2RK1 b kq - 3 8">Link</a> | Blitz |
 | rorolartis | **IslamovMuhammad** | resigned ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/p1N2ppp/5n2/3qN3/3p4/8/PPPP1PPP/R1BQK2R b KQkq - 0 9">Link</a> | Blitz |
 | andrzejkrzak | **IslamovMuhammad** | win 🥇 | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rq1k1/5p1p/1P4p1/2N2b2/8/1p3N2/P4PPP/b5K1 w - - 0 33">Link</a> | Blitz |
-| **IslamovMuhammad** | LucaChess404 | win 🥇 | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/3K1p2/2p3k1/3n4/R7 b - - 0 67">Link</a> | Blitz |
-| JLSVLSGDLP | **IslamovMuhammad** | checkmated ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4rk/pq3p2/3p4/1pp1P1Q1/7R/2N5/PPP3P1/3R2K1 b - - 4 29">Link</a> | Blitz |
-| **IslamovMuhammad** | Philmons82 | resigned ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1bk2p/p7/1p1pPrq1/1P1n4/P7/2P4P/1KQ5 w - - 0 26">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
