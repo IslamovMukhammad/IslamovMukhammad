@@ -137,6 +137,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **IslamovMuhammad** | mohamed_sina | timevsinsufficient ⏸️ | 19/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/k2n4/1pK5/8/8 b - - 3 72">Link</a> | Blitz |
 | yosidolfi | **IslamovMuhammad** | timeout ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/ppp2pp1/2n1B2p/8/3p1B2/8/PPP2PPP/RN2R1K1 b - - 0 16">Link</a> | Blitz |
 | **IslamovMuhammad** | Fums81 | timeout ❌ | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5p1p/6p1/Q1PR4/P5B1/7P/5KP1/8 w - - 1 41">Link</a> | Blitz |
 | DK-FIGHTER | **IslamovMuhammad** | win 🥇 | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/6p1/4p2p/1p3q2/3Q2KP/5r2/3R4 w - - 2 37">Link</a> | Blitz |
@@ -146,7 +147,6 @@
 | **IslamovMuhammad** | Psimx | checkmated ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pR4p1/3p3p/3P3n/6N1/6Pb/P5qP/4Q1K1 w - - 2 32">Link</a> | Blitz |
 | **IslamovMuhammad** | 321fe | win 🥇 | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2pp1/3p1n1p/8/2BQP3/2N5/PPP2PPP/R1B2RK1 b kq - 3 8">Link</a> | Blitz |
 | rorolartis | **IslamovMuhammad** | resigned ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/p1N2ppp/5n2/3qN3/3p4/8/PPPP1PPP/R1BQK2R b KQkq - 0 9">Link</a> | Blitz |
-| andrzejkrzak | **IslamovMuhammad** | win 🥇 | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rq1k1/5p1p/1P4p1/2N2b2/8/1p3N2/P4PPP/b5K1 w - - 0 33">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
