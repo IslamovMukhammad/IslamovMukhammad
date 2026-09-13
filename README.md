@@ -137,6 +137,7 @@
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kurikael | **IslamovMuhammad** | timevsinsufficient ⏸️ | 12/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/Pk6/R7/5K2/8 w - - 3 56">Link</a> | Bullet |
 | **IslamovMuhammad** | nomonjonrahimov | win 🥇 | 11/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/R7/2N3pk/8/5P2/2r4p/7K/8 b - - 4 42">Link</a> | Rapid |
 | nomonjonrahimov | **IslamovMuhammad** | checkmated ❌ | 11/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr2k/pp2b1Qp/2pp3B/3Ppp1P/8/3P4/PP3PP1/R5K1 b - - 1 21">Link</a> | Rapid |
 | nomonjonrahimov | **IslamovMuhammad** | win 🥇 | 11/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/3k4/8/4K1q1 w - - 44 82">Link</a> | Rapid |
@@ -146,7 +147,6 @@
 | yosidolfi | **IslamovMuhammad** | timeout ❌ | 17/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k2/ppp2pp1/2n1B2p/8/3p1B2/8/PPP2PPP/RN2R1K1 b - - 0 16">Link</a> | Blitz |
 | **IslamovMuhammad** | Fums81 | timeout ❌ | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5p1p/6p1/Q1PR4/P5B1/7P/5KP1/8 w - - 1 41">Link</a> | Blitz |
 | DK-FIGHTER | **IslamovMuhammad** | win 🥇 | 16/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/6p1/4p2p/1p3q2/3Q2KP/5r2/3R4 w - - 2 37">Link</a> | Blitz |
-| **IslamovMuhammad** | HasBakan79 | checkmated ❌ | 14/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6kp/6p1/1B4K1/5PP1/5n2/8/8 w - - 1 52">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 - 🎮 Chess with me [here](https://chess.com/play/IslamovMuhammad)
